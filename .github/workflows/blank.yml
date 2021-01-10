@@ -28,3 +28,4 @@ jobs:
             ls
             cd ${{ secrets.DIRECTORY }}
             ls
+            find . -type f > list.txt
