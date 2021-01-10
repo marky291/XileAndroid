@@ -9,23 +9,20 @@
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
-		<yellow>
+		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
 			<admin>2000002</admin>
-			<admin>2002885</admin>
-			<admin>2000816</admin>
-			<admin>2001889</admin>
 			<admin>2001947</admin>
 			<admin>2002632</admin>
-			<admin>2003577</admin>
 			<admin>2003612</admin>
 			<admin>2003980</admin>
-			<admin>2004226</admin>
 			<admin>2004285</admin>
+			<admin>2004832</admin>
 			<admin>2005295</admin>
 			<admin>2005304</admin>
-		</yellow>
+			<admin>2005785</admin>
+		</aid>
     </connection>
 	<connection> 
         <display>^AF3900[Proxy] Asia Pacific, Singapore^000000</display>
@@ -33,47 +30,41 @@
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
-		<yellow>
+		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
 			<admin>2000002</admin>
-			<admin>2002885</admin>
-			<admin>2000816</admin>
-			<admin>2001889</admin>
 			<admin>2001947</admin>
 			<admin>2002632</admin>
-			<admin>2003577</admin>
 			<admin>2003612</admin>
 			<admin>2003980</admin>
-			<admin>2004226</admin>
 			<admin>2004285</admin>
+			<admin>2004832</admin>
 			<admin>2005295</admin>
 			<admin>2005304</admin>
-		</yellow>
+			<admin>2005785</admin>
+		</aid>
     </connection>
 	<connection> 
         <display>^AF3900[Proxy] South America, Sao Paulo^000000</display>
-		<address>177.71.250.254</address> 
+		<address>18.228.217.130</address> 
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
-		<yellow>
+		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
 			<admin>2000002</admin>
-			<admin>2002885</admin>
-			<admin>2000816</admin>
-			<admin>2001889</admin>
 			<admin>2001947</admin>
 			<admin>2002632</admin>
-			<admin>2003577</admin>
 			<admin>2003612</admin>
 			<admin>2003980</admin>
-			<admin>2004226</admin>
 			<admin>2004285</admin>
+			<admin>2004832</admin>
 			<admin>2005295</admin>
 			<admin>2005304</admin>
-		</yellow>
+			<admin>2005785</admin>
+		</aid>
     </connection>
 	<connection> 
         <display>^AF3900[Proxy] US West, N. California^000000</display> 
@@ -81,23 +72,20 @@
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
-		<yellow>
+		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
 			<admin>2000002</admin>
-			<admin>2002885</admin>
-			<admin>2000816</admin>
-			<admin>2001889</admin>
 			<admin>2001947</admin>
 			<admin>2002632</admin>
-			<admin>2003577</admin>
 			<admin>2003612</admin>
 			<admin>2003980</admin>
-			<admin>2004226</admin>
 			<admin>2004285</admin>
+			<admin>2004832</admin>
 			<admin>2005295</admin>
 			<admin>2005304</admin>
-		</yellow>
+			<admin>2005785</admin>
+		</aid>
     </connection>
 	<connection> 
         <display>^BDBDBDPublic Testing Development Server^000000</display>
@@ -105,10 +93,6 @@
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
-		<yellow>
-			<admin>2000000</admin>
-			<admin>2000001</admin>
-		</yellow>
     </connection>
 	<connection> 
 		<display>^F0F0F0Private Development^000000</display>

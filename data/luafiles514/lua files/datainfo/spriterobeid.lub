@@ -1,0 +1,18 @@
+SPRITE_ROBE_IDs = {
+	ROBE_WINGS = 1,
+	ROBE_BAG_OF_ADVENTURER = 2,
+	ROBE_WINGS_OF_FALLEN_ANGEL = 3,
+	ROBE_Thanatos_Sword = 4,
+	ROBE_C_Loli_Ruri_Moon = 5,
+	ROBE_C_Nifl_Bloom = 6,
+	ROBE_C_Evil_Druid_Cross = 7,
+	ROBE_C_Relic_Sword = 8,	
+	ROBE_C_Evil_Scythe = 9,
+	ROBE_C_Relic_Daggers = 10,
+	ROBE_C_Relic_Ribbon = 11,
+	ROBE_C_Relic_Bow = 12,
+	ROBE_C_Relic_Cross = 13,
+	ROBE_C_Relic_Staff = 14,
+	ROBE_Christmas_Daddy_Bag = 15
+	
+}

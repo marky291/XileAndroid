@@ -1,0 +1,44 @@
+EntryQueueList = {
+	[1] = {
+		BattleFieldName = "5mffa",
+		DisplayBattleFieldName = "5MFFA",
+		AllianceNum = 1,
+		EnemyNum = 4,
+		PrivateApply = 1,
+		PartyApply = 0,
+		GuildApply = 0,
+		JobGroup = 4,
+		EnterCondType = 2,
+		EnterCondValue1 = 250,
+		EnterCondValue2 = 0,
+		RewardWin = "75 Honor Points",
+		RewardDraw = "0 Honor Points",
+		RewardLose = "0 Honor Points",
+		VictoryCond = "Defeat all other enemies!",
+		MiniMapFile = "bat_a01.bmp"
+	},
+	[2] = {
+		BattleFieldName = "3vs3",
+		DisplayBattleFieldName = "3vs3 Party",
+		AllianceNum = 3,
+		EnemyNum = 3,
+		PrivateApply = 0,
+		PartyApply = 1,
+		GuildApply = 0,
+		JobGroup = 4,
+		EnterCondType = 2,
+		EnterCondValue1 = 250,
+		EnterCondValue2 = 0,
+		RewardWin = "40 Honor Points",
+		RewardDraw = "7 Honor Points",
+		RewardLose = "7 Honor Points",
+		VictoryCond = "Defeat the enemy team!",
+		MiniMapFile = "bat_a01.bmp"
+	},
+}
+
+function ReadEntryQueueList()
+	for id, table in pairs(EntryQueueList) do
+		AddEntryQueue(id, table.BattleFieldName, table.DisplayBattleFieldName, table.AllianceNum, table.EnemyNum, table.PrivateApply, table.PartyApply, table.GuildApply, table.JobGroup, table.EnterCondType, table.EnterCondValue1, table.EnterCondValue2, table.RewardWin, table.RewardDraw, table.RewardLose, table.VictoryCond, table.MiniMapFile)
+	end
+end

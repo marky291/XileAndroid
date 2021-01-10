@@ -38,6 +38,7 @@ tbl = {
 		identifiedResourceName = "원유회선물상자",
 		identifiedDescriptionName = {
 			"Open to get a random ^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2Halloween 2020^000000",
 			"Weight : ^77777720^000000"
 		},
 		slotCount = 0,
@@ -49469,6 +49470,12 @@ tbl = {
 		identifiedDisplayName = "Solar Panels",
 		identifiedResourceName = "새틀라이트헤어밴드",
 		identifiedDescriptionName = {
+		"Strange looking Hair lace.",
+		"It seems like one can receive the signal from another planet when you are wearing it. However, it's just merely a feel.",
+		"The vision of wearer seems to be wider with it.",
+		"Maximum HP + 50, Maximum SP + 10",
+		"Enables use of ^008800Level 1 Ruwach^000000.",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 1,
 		ClassNum = 266
@@ -49481,6 +49488,9 @@ tbl = {
 		identifiedDisplayName = "Rabbit Ears",
 		identifiedResourceName = "검은토끼머리띠",
 		identifiedDescriptionName = {
+		"A fluffy black bunny headband.",
+		"Agi+2, Mdef+3",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 0,
 		ClassNum = 267
@@ -49517,6 +49527,10 @@ tbl = {
 		identifiedDisplayName = "Evolved Evil Wing",
 		identifiedResourceName = "악마의머리띠",
 		identifiedDescriptionName = {
+		"A headgear fashioned to look like the wings on a demon's back.",
+		"It's said that wearing these will make you feel much stronger.",
+		"Str +1, Agi +1, Flee +3. Reduces damage from Demon monsters by 3%.",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 0,
 		ClassNum = 39
@@ -52499,6 +52513,12 @@ tbl = {
 		identifiedDisplayName = "Santa Poring Hat",
 		identifiedResourceName = "산타포링모자",
 		identifiedDescriptionName = {
+		"A cute hat with a santa poring.",
+		"Increases damage against Shadow Property monsters by 3%",
+		"Reduces damage received from Shadow Property monsters by 3%.",
+		"MDEF + 2.",
+		"Impossible to refine this item.",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 0,
 		ClassNum = 387
@@ -52535,6 +52555,12 @@ tbl = {
 		identifiedDisplayName = "Twin Pom Santa",
 		identifiedResourceName = "양갈래산타모자",
 		identifiedDescriptionName = {
+		"A cute hat which it protects you from the cold weather and will give you an ultra-cute look!",
+		"Designed by the famous stylist JB.",
+		"LUK +3",
+		"Enables use of ^008800Level 1 Sense^000000.",
+		"Add chance of auto casting ^008800Level 1 Increase Agility^000000 when attacking.",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 0,
 		ClassNum = 390
@@ -54334,6 +54360,9 @@ tbl = {
 		identifiedDisplayName = "Rudolf Santa Hat",
 		identifiedResourceName = "루돌프산타모",
 		identifiedDescriptionName = {
+		"Rudolf the red-nosed reindeer had a very shiny Hat!",
+		"LUK +1.",
+		"^5DADE2Attendance Exclusive^000000",
 		},
 		slotCount = 0,
 		ClassNum = 619
@@ -73943,6 +73972,20 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[9325] = {
+		unidentifiedDisplayName = " Egg",
+		unidentifiedResourceName = "크리스마스알",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Christmas Stocking Smokie Egg",
+		identifiedResourceName = "크리스마스알",
+		identifiedDescriptionName = { "The cutest version of a Smokie!",
+			"^5DADE2Christmas 2020^000000",
+			"Class : ^777777Monster Egg^000000",
+			"Weight : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[10001] = {
 		unidentifiedDisplayName = "Skull Helm",
 		unidentifiedResourceName = "동물의머리뼈",
@@ -93512,6 +93555,26 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 717
 	},
+	[18742] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Moon and Stars",
+		identifiedResourceName = "달과별의장식",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1330
+	},
 	[19500] = {
 		unidentifiedDisplayName = "Baby Swordmand Clone",
 		unidentifiedResourceName = "화속성알",
@@ -94670,6 +94733,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
 			"AspdRate +40%, Str +30, Vit +10",
+			"Enables use of ^008800Throw Tomahawk^000000.",
 			"^FF9900Guild Pack Exclusive^000000",
 			"Class : ^777777Axe^000000",
 			"Attack Strength : ^777777250^000000",
@@ -94683,6 +94747,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
 			"AspdRate +40%, Str +30, Vit +10",
+			"Enables use of ^008800Throw Tomahawk^000000.",
 			"^FF9900Guild Pack Exclusive^000000",
 			"Class : ^777777Axe^000000",
 			"Attack Strength : ^777777250^000000",
@@ -95731,6 +95796,672 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[20203] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "고급주머니",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "X-Mas Special: Event Card Grab-Bag",
+		identifiedResourceName = "고급주머니",
+		identifiedDescriptionName = {
+			"Open to get a random ^FF9900Event Card^000000.",
+			"^5DADE2Christmas 2020^000000",
+			"Weight : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20204] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "안토니오가방",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "X-Mas Special: Costume Grab-Bag",
+		identifiedResourceName = "안토니오가방",
+		identifiedDescriptionName = {
+			"Open to get a random ^FF9900XileRetro^000000 ^5DADE2Christmas^000000 Costume Headgear.",
+			"^5DADE2Christmas 2020^000000",
+			"Weight : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20205] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "눈의결정",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Charlotte's Lingering Snowflake",
+		identifiedResourceName = "눈의결정",
+		identifiedDescriptionName = {
+			"A special snowflake that just stays frozen and floats around me.",
+			"I should bring this to Charlotte.",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20206] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "구겨진종이뭉치",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Charlotte's Nevermelting Snow",
+		identifiedResourceName = "구겨진종이뭉치",
+		identifiedDescriptionName = {
+			"A special snowball that I really wanna yeet at someone...",
+			"I should bring this to Charlotte.",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20207] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "스노우플립",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Charlotte's Eternal Snow Flip",
+		identifiedResourceName = "스노우플립",
+		identifiedDescriptionName = {
+			"A really neat looking flower that seems immune to the cold, in fact it thrives...",
+			"I should bring this to Charlotte.",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20208] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "festi_cookie",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Charlotte's X-Mas Cookie",
+		identifiedResourceName = "festi_cookie",
+		identifiedDescriptionName = {
+			"This thing looks delicious but I really shouldn't have a bite without asking.",
+			"I should bring this to Charlotte.",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20209] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Dustiness Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^009900Wind^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20210] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Hode Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^996600Earth^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20211] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Isis Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^777777Dark^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20212] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Myst Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^800080Poison^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20213] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Jakk Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^FF0000Fire^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20214] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Marionette Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^777777Ghost^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20215] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Marse Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^0000FFWater^000000 Property by 35%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20216] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Raydric Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase resistance to the ^777777Neutral^000000 Property by 25%.",
+			"HIT +45",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20217] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Abysmal Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on Boss monster by 30%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20218] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Anacondaq Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^800080Poison^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20219] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Caramel Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on Insect monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20220] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Drainliar Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^0000FFWater^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20221] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Petite Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on Dragon monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20222] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Hydra Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on DemiHuman monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20223] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Kaho Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^996600Earth^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20224] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Mandragora Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^009900Wind^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20225] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Orc Skeleton Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^777777Holy^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20226] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Santa Poring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^777777Dark^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20227] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Scorpion King Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^777777Undead^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20228] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[E] Vadon Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increase damage on ^FF0000Fire^000000 Property monster by 25%.",
+			"HIT +10",
+			"^5DADE2Special Event Exclusive^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20229] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "고급주머니",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Santa's Bag",
+		identifiedResourceName = "고급주머니",
+		identifiedDescriptionName = {
+			"A special garment modeled after Christmas Daddy's special bag!",
+			"HIT +25",
+			"^5DADE2Christmas 2020^000000",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777774^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20230] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "CandyCaneRod",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Christmas Candy",
+		identifiedResourceName = "CandyCaneRod",
+		identifiedDescriptionName = {
+			"What a classic yummy treat for the holidays!",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20231] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "부쉬드노엘",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Christmas Biscuit",
+		identifiedResourceName = "부쉬드노엘",
+		identifiedDescriptionName = {
+			"I don't understand how this cake is a biscuit but I don't make the rules...",
+			"Yule Log Cake.",
+			"c-a-k-e. ~cake~",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20232] = {
+		unidentifiedDisplayName = "Christmas Daddy's Bag",
+		unidentifiedResourceName = "Christmas_Daddy_Bag",
+		unidentifiedDescriptionName = {
+			"Description",
+			"^ffffff_^000000",
+			"Weight: ^7777777^000000",
+		},
+		identifiedDisplayName = "[C] Christmas Daddy's Bag",
+		identifiedResourceName = "Christmas_Daddy_Bag",
+		identifiedDescriptionName = {
+			"Daddy Christmas sure does love his sugar babies.",
+			"^FF9900XileRetro^000000 Costume Headgear",
+			"^5DADE2Christmas 2020^000000",
+			"Class : ^777777Costume^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15
+	},
+	[12755] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "12755",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Traditional Fireworks",
+		identifiedResourceName = "12755",
+		identifiedDescriptionName = {
+			"Makes beautiful fireworks in the sky when it is lit.",
+			"Unlike regular fireworks these split into multiple bursts of lights!",
+			"^5DADE2Christmas 2020^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20233] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "뱅쇼",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Mulled Wine",
+		identifiedResourceName = "뱅쇼",
+		identifiedDescriptionName = {
+			"A traditional winter drink, especialy yummy around Christmas.",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20234] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "아몬드초콜렛",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Roasted Almonds",
+		identifiedResourceName = "아몬드초콜렛",
+		identifiedDescriptionName = {
+			"Crispy roasted almonds, perfect for the season!",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20235] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "up_soulweight",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Soul of Christmas",
+		identifiedResourceName = "up_soulweight",
+		identifiedDescriptionName = {
+			"Embodiment of Christmas... All contained in this?",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20236] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "검정숯",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Christmas Coal",
+		identifiedResourceName = "검정숯",
+		identifiedDescriptionName = {
+			"Christmas Daddy says you've been very, very...",
+			"Naughty naughty~ ;3",
+			"^5DADE2Christmas 2020 Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20237] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "cupit_blue",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Subtle Lapis Wings",
+		identifiedResourceName = "cupit_blue",
+		identifiedDescriptionName = {
+			"A quite adorable and understated pair of wings in Lapis Blue no less...",
+			"^FF9900XileRetro^000000 Costume Headgear",
+			"^5DADE2Christmas 2020^000000",
+			"Class : ^777777Costume^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 1286
+	},
+	[20241] = {
+		unidentifiedDisplayName = "Picker",
+		unidentifiedResourceName = "bs_item_m_scroll",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Unique Uber Weapon Picker (0+)",
+		identifiedResourceName = "bs_item_m_scroll",
+		identifiedDescriptionName = {
+			"Open to receive a ^FF9900+0 Unique Uber Weapon^000000 of your chosing.",
+			"^FF9900Uber Weapon has Unique Stats^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
 	},
 	[20057] = {
 		unidentifiedDisplayName = "Golden Eve Apple",
@@ -96828,6 +97559,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
 			"AspdRate +40%, Str +30, Vit +10",
+			"Enables use of ^008800Throw Tomahawk^000000.",
 			"Class : ^777777Axe^000000",
 			"Attack Strength : ^777777250^000000",
 			"Weight : ^777777250^000000",
@@ -96840,6 +97572,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
 			"AspdRate +40%, Str +30, Vit +10",
+			"Enables use of ^008800Throw Tomahawk^000000.",
 			"Class : ^777777Axe^000000",
 			"Attack Strength : ^777777250^000000",
 			"Weight : ^777777250^000000",
@@ -97378,20 +98111,14 @@ tbl = {
 		unidentifiedDisplayName = "Unique Reaper",
 		unidentifiedResourceName = "슬러터",
 		unidentifiedDescriptionName = {
-			"Long and fast axe, used to defend and protect ones assets.",
-			"AspdRate +40%, Str +30, Vit +10",
-			"Class : ^777777Axe^000000",
-			"Attack Strength : ^777777250^000000",
-			"Weight : ^777777250^000000",
-			"Weapon lvl : ^7777774^000000",
-			"Required lvl : ^77777744^000000",
-			"Available Job : ^777777Merchant^000000"
+			"..."
 		},
 		identifiedDisplayName = "Unique Reaper",
 		identifiedResourceName = "슬러터",
 		identifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
 			"AspdRate +40%, Str +30, Vit +10",
+			"Enables use of ^008800Throw Tomahawk^000000.",
 			"^FF9900Has Unique Stats^000000",
 			"Class : ^777777Axe^000000",
 			"Attack Strength : ^777777250^000000",
@@ -103652,20 +104379,16 @@ tbl = {
 		unidentifiedDisplayName = "[C] Bragi Wing Ears",
 		unidentifiedResourceName = "브라기의날개귀",
 		unidentifiedDescriptionName = {
-			"^FF9900XileRetro^000000 Costume Headgear.",
-			"Class : ^777777Head Gear^000000",
-			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Middle^000000",
-			"Weight : ^77777710^000000",
-			"Available Job : ^777777Every Job^000000"
+			"...",
 		},
 		identifiedDisplayName = "[C] Bragi Wing Ears",
 		identifiedResourceName = "브라기의날개귀",
 		identifiedDescriptionName = {
 			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2Lunar New Year 2021^000000",
 			"Class : ^777777Head Gear^000000",
 			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Middle^000000",
+			"Equipped On : ^777777Upper^000000",
 			"Weight : ^77777710^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
@@ -106836,22 +107559,1642 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"..."
+		"...",
 		},
-		identifiedDisplayName = "[C] Star Seeker Keyblade",
-		identifiedResourceName = "StarSeeker",
+		identifiedDisplayName = "[C] Snowman Hat",
+		identifiedResourceName = "눈사람모자",
 		identifiedDescriptionName = {
-			"^FF9900XileRetro^000000 Costume Headgear.",
-			"^5DADE2 Exclusive^000000",
-			"Made by Mitsune~",
-			"Class : ^777777Head Gear^000000",
-			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Garment^000000",
-			"Weight : ^77777710^000000",
-			"Available Job : ^777777Every Job^000000"
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
 		},
 		slotCount = 0,
-		ClassNum = 15
+		ClassNum = 616
+	},
+	[19513] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Carnation Headband",
+		identifiedResourceName = "카네이션머리띠",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 878
+	},
+	[19514] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Santa Poring",
+		identifiedResourceName = "산타포링모자",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 387
+	},
+	[19515] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Shining Santa Poring",
+		identifiedResourceName = "발광산타포링",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 961
+	},
+	[19516] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Santa Hairband",
+		identifiedResourceName = "산타인형머리띠",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 964
+	},
+	[19517] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Polar Bear Cap",
+		identifiedResourceName = "크리스마스흰곰모자",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 966
+	},
+	[19518] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Rudolf Hairband",
+		identifiedResourceName = "루돌프머리띠",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 836
+	},
+	[19519] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Christmas Tree Hat",
+		identifiedResourceName = "미니트리",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 727
+	},
+	[19520] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Let It Snow",
+		identifiedResourceName = "Let_It_Snow",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"Enables snow weather effect while worn.",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1282
+	},
+	[19521] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Present of Snow",
+		identifiedResourceName = "눈의선물",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1283
+	},
+	[19522] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Pure White Marching Hat",
+		identifiedResourceName = "순백의마칭햇",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1284
+	},
+	[19523] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Snowysnow Hat",
+		identifiedResourceName = "스노우노우모자",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear",
+		"^5DADE2Christmas 2020^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1285
+	},
+	[19524] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Angeling Balloon",
+		identifiedResourceName = "angeling_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1287
+	},
+	[19525] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Arc Angeling Balloon",
+		identifiedResourceName = "arcangeling_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1288
+	},
+	[19526] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Bunnyring Balloon",
+		identifiedResourceName = "bunnyring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1289
+	},
+	[19527] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Deviling Balloon",
+		identifiedResourceName = "deviling_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1290
+	},
+	[19528] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Drops Balloon",
+		identifiedResourceName = "drops_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1291
+	},
+	[19529] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Ghostring Balloon",
+		identifiedResourceName = "ghostring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1292
+	},
+	[19530] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Marin Balloon",
+		identifiedResourceName = "marin_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1293
+	},
+	[19531] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mooring Balloon",
+		identifiedResourceName = "mooring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1294
+	},
+	[19532] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Poporing Balloon",
+		identifiedResourceName = "poporing_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1295
+	},
+	[19533] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Poring Balloon",
+		identifiedResourceName = "poring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1296
+	},
+	[19534] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Pouring Balloon",
+		identifiedResourceName = "pouring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1297
+	},
+	[19535] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Rainbowring Balloon",
+		identifiedResourceName = "rainbowring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1298
+	},
+	[19536] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Rainling Balloon",
+		identifiedResourceName = "rainling_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1299
+	},
+	[19537] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Santa Poring Balloon",
+		identifiedResourceName = "santa_poring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1300
+	},
+	[19538] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Sapling Balloon",
+		identifiedResourceName = "sapling_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1301
+	},
+	[19539] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Black Heart Balloon",
+		identifiedResourceName = "black_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1302
+	},
+	[19540] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Blue Heart Balloon",
+		identifiedResourceName = "blue_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1303
+	},
+	[19541] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Green Heart Balloon",
+		identifiedResourceName = "green_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1304
+	},
+	[19542] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Pink Heart Balloon",
+		identifiedResourceName = "pink_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1305
+	},
+	[19543] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Purple Heart Balloon",
+		identifiedResourceName = "purple_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1306
+	},
+	[19544] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Red Heart Balloon",
+		identifiedResourceName = "red_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1307
+	},
+	[19545] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Yellow Heart Balloon",
+		identifiedResourceName = "yellow_heart_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1308
+	},
+	[19546] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Boo Balloon",
+		identifiedResourceName = "boo_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1309
+	},
+	[19547] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Meowring Balloon",
+		identifiedResourceName = "Meowring_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1310
+	},
+	[19548] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mr. Frog Balloon",
+		identifiedResourceName = "mr_froggy_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1311
+	},
+	[19549] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mrs. Frog Balloon",
+		identifiedResourceName = "mrs_froggy_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1312
+	},
+	[19550] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Melody Balloon",
+		identifiedResourceName = "mymelody_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1313
+	},
+	[19551] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Yoshi Egg Balloon",
+		identifiedResourceName = "red_yoshi_egg_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1314
+	},
+	[19552] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] First Star Balloon",
+		identifiedResourceName = "First_Star_Ballon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1315
+	},
+	[19553] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Floating Balloons",
+		identifiedResourceName = "floating_balloons",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Activity Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1316
+	},
+	[19554] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Arctic Wings",
+		identifiedResourceName = "Arctic_Wing",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1317
+	},
+	[19555] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Cold Blade Wings",
+		identifiedResourceName = "cold_blade_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1318
+	},
+	[19556] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Gentle Snow Wings",
+		identifiedResourceName = "gentle_snow_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1319
+	},
+	[19557] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Heart Wings",
+		identifiedResourceName = "HeartWings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1320
+	},
+	[19558] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Icy Feathered Wings",
+		identifiedResourceName = "icy_feather_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1321
+	},
+	[19559] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Moonlight Wings",
+		identifiedResourceName = "moonlight_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1322
+	},
+	[19560] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mystic Butterfly Wings",
+		identifiedResourceName = "mystic_butterfly_wing",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1323
+	},
+	[19561] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Sakura Plume Wings",
+		identifiedResourceName = "sakura_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1324
+	},
+	[19562] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Zodiac Wings",
+		identifiedResourceName = "zodiac_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Hunting Point Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1325
+	},
+	[19563] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Samehada Sword",
+		identifiedResourceName = "Samehada_Sword",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Donation Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1326
+	},
+	[19564] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Falling Money",
+		identifiedResourceName = "falling_money",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Donation Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1327
+	},
+	[19565] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Divine Staff",
+		identifiedResourceName = "Divine_Staff",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Donation Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1328
+	},
+	[19566] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Divine Sword",
+		identifiedResourceName = "Divine_Sword",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Donation Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1329
+	},
+	[19567] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Large Sorcerer Crown",
+		identifiedResourceName = "C_Large_Sorcerer_Crown",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1330
+	},
+	[19568] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Golden Savage Hat",
+		identifiedResourceName = "골든세비지모자",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 648
+	},
+	[19569] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Majorous Horns",
+		identifiedResourceName = "메이저우로스의뿔",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 888
+	},
+	[19570] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Cherry Blossom Hairpin",
+		identifiedResourceName = "고향의벚꽃",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 602
+	},
+	[19571] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Cow Hat",
+		identifiedResourceName = "젖소모자1",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper/Middle/Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1331
+	},
+	[19572] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Bull Head",
+		identifiedResourceName = "C_bullhead",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper/Middle/Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1332
+	},
+	[19573] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] New Year Hairpin",
+		identifiedResourceName = "마네키모치바나",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Lunar New Year 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1333
+	},
+	[19574] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura",
+		identifiedResourceName = "test_subject_aura",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1334
+	},
+	[19575] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Black",
+		identifiedResourceName = "vibrant_test_subject_aura_black",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1335
+	},
+	[19576] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Fire Red",
+		identifiedResourceName = "vibrant_test_subject_aura_fire_red",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1336
+	},
+	[19577] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Gold",
+		identifiedResourceName = "vibrant_test_subject_aura_gold",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1337
+	},
+	[19578] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Lilac",
+		identifiedResourceName = "vibrant_test_subject_aura_lilac",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1338
+	},
+	[19579] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Lime Green",
+		identifiedResourceName = "vibrant_test_subject_aura_lime_green",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1339
+	},
+	[19580] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Violet",
+		identifiedResourceName = "vibrant_test_subject_aura_violet",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1340
+	},
+	[19581] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Black Ombre",
+		identifiedResourceName = "test_subject_aura_black_ombre",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1341
+	},
+	[19582] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Indigo Ombre",
+		identifiedResourceName = "test_subject_aura_indigo_ombre",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1342
+	},
+	[19583] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Black Gold",
+		identifiedResourceName = "test_subject_aura_black_gold",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1343
+	},
+	[19584] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Black Red",
+		identifiedResourceName = "test_subject_aura_black_red",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1344
+	},
+	[19585] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Black Violet",
+		identifiedResourceName = "test_subject_aura_black_violet",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1345
+	},
+	[19586] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Split Angel",
+		identifiedResourceName = "test_subject_aura_split_angel",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1346
+	},
+	[19587] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Split Demon",
+		identifiedResourceName = "test_subject_aura_split_demon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1347
+	},
+	[19588] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Fusion Pink",
+		identifiedResourceName = "test_subject_aura_fusion_pink",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1348
+	},
+	[19589] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Test Subject Aura Teal",
+		identifiedResourceName = "test_subject_aura_teal",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1349
+	},
+	[19590] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Faded Test Subject Aura Crimson Red",
+		identifiedResourceName = "faded_test_subject_aura_crimson_red",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1350
+	},
+	[19591] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Faded Test Subject Aura Green",
+		identifiedResourceName = "faded_test_subject_aura_green",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1351
+	},
+	[19592] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Faded Test Subject Aura Indigo",
+		identifiedResourceName = "faded_test_subject_aura_indigo",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1352
+	},
+	[19593] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Faded Test Subject Aura Maroon",
+		identifiedResourceName = "faded_test_subject_aura_maroon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclsive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1353
 	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
@@ -113306,6 +115649,51 @@ tbl = {
 			"Weight : ^7777771^000000",
 			"Required Level : ^777777NA^000000",
 			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[28018] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Uber Loot Box",
+		identifiedResourceName = "영원스크롤",
+		identifiedDescriptionName = {
+			"Open to get a random ^FF9900Uber Grade^000000 item.",
+			"Weight : ^77777720^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[28019] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Elite Loot Box",
+		identifiedResourceName = "모범생선물상자",
+		identifiedDescriptionName = {
+			"Open to get a random ^FF9900Elite Grade^000000 item.",
+			"Weight : ^77777720^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[28020] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Godly Loot Box",
+		identifiedResourceName = "불량학생선물상자",
+		identifiedDescriptionName = {
+			"Open to get a random ^FF9900Godly Grade^000000 item.",
+			"Weight : ^77777720^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0
