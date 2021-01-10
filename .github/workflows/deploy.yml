@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Deploy
 
 # Triggered when code is pushed to any branch in a repository
 on: push
@@ -25,7 +25,6 @@ jobs:
           key: ${{ secrets.PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
-            ls
             cd ${{ secrets.DIRECTORY }}
-            ls
-            find . -type f > list.txt
+            cd github && git pull
+            cd ../ && find . -type f > list.txt
