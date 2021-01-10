@@ -26,4 +26,5 @@ jobs:
           script: |
             cd ${{ secrets.DIRECTORY }}
             cd github && git pull
+            rsync --info=progress2 * ../ -r
             cd ../ && find . -type f > list.txt
