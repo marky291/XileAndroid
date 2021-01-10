@@ -2,13 +2,8 @@
 
 name: CI
 
-# Controls when the action will run. 
-on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+# Triggered when code is pushed to any branch in a repository
+on: push
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -24,10 +19,13 @@ jobs:
         # uses: appleboy/ssh-action@1d1b21ca96111b1eb4c03c21c14ebb971d2200f6
         uses: appleboy/ssh-action@v0.1.4
         with:
-          host: ${{ XileAndroid.IP }}
-          port: 22
-          username: ${{ XileAndroid.USERNAME }}
-          key: ${{ XileAndroid.KEY }}
-          passphrase: ${{ XileAndroid.PASSPHRASE }}
+          host: ${{ secrets.IP_ADDRESS }}
+          port: ${{ secrets.PORT }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
           script: |
             ls
+            cd ${{ secrets.DIRECTORY }}
+            ls
+            find . -type f > list.txt
