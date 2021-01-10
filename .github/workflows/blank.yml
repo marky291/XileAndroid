@@ -19,9 +19,9 @@ jobs:
         # uses: appleboy/ssh-action@1d1b21ca96111b1eb4c03c21c14ebb971d2200f6
         uses: appleboy/ssh-action@v0.1.4
         with:
-          host: ${{ env.IP_ADDRESS }}
+          host: ${{ secrets.IP_ADDRESS }}
           port: 22
-          username: ${{ env.USERNAME }}
-          key: ${{ env.PRIVATE_KEY }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.PRIVATE_KEY }}
           script: |
             ls
