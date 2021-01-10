@@ -26,3 +26,5 @@ jobs:
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
             ls
+            cd ${{ secrets.DIRECTORY }}
+            ls
