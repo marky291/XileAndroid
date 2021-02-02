@@ -1,4 +1,148 @@
 tbl = {
+	[21000] = {
+		unidentifiedDisplayName = "Sign of Love",
+		unidentifiedResourceName = "사랑의조각",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Sign of Love",
+		identifiedResourceName = "사랑의조각",
+		identifiedDescriptionName = { 
+			"A Valentine gift left to you by a Love Bunny.",
+			" ",
+			"It seems you can only use this on 13th - 15th of February!",
+			" ",
+			"When you use this item you will shown an Item Shop window to purchase other items with these Signs of Love. The Point value the window refers to is the required quantity of these items.",
+			" ",
+			"WARNING!! Collect a lot of these! The highest priced item will cost you 2,000 of these Signs of Love!",
+			"Class:^6666CC Usable^000000",
+			"Weight :^777777 1^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+	},
+	[21001] = {
+		unidentifiedDisplayName = "Valentine Gift",
+		unidentifiedResourceName = "사랑의조각",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Valentine Gift",
+		identifiedResourceName = "사랑의조각",
+		identifiedDescriptionName = { 
+			"A Valentine gift from the XileRetro Staff Team, because we love you!",
+			"Class:^6666CC Giftbox^000000",
+			"Weight :^777777 10^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+	},
+	[21002] = {
+		unidentifiedDisplayName = "Valentine Present",
+		unidentifiedResourceName = "솔로의선물바구니",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Valentine Present",
+		identifiedResourceName = "솔로의선물바구니",
+		identifiedDescriptionName = { 
+			"I wonder what lovely things are available in this basket?",
+			"Class:^6666CC Giftbox^000000",
+			"Weight :^777777 25^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+	},
+	[21003] = {
+		unidentifiedDisplayName = "Love Letter",
+		unidentifiedResourceName = "소녀의순정",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Love Letter",
+		identifiedResourceName = "소녀의순정",
+		identifiedDescriptionName = { 
+			"A letter from an admirer.",
+			" ",
+			"Class:^6666CC Readable^000000",
+			"Weight :^777777 1^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+	},
+	[21004] = {
+		unidentifiedDisplayName = "Storehouse Crate",
+		unidentifiedResourceName = "상자",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "Storehouse Crate",
+		identifiedResourceName = "상자",
+		identifiedDescriptionName = {"..."},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[21005] = {
+		unidentifiedDisplayName = "Bottle of Dust",
+		unidentifiedResourceName = "나방의날개가루",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Bottle of Dust",
+		identifiedResourceName = "나방의날개가루",
+		identifiedDescriptionName = { 
+			"It's full to the brim with dust you've collected. Take it to ^0000ffRobertta^000000 in ^0000ffProntera^000000, she'll know what to do!",
+			"Class:^6666CC Etc^000000",
+			"Weight :^777777 1^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+	},
+	[12529] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Slim Potion Box (125)",
+		identifiedResourceName = "원한의상자",
+		identifiedDescriptionName = {
+			"A box containing 125 of the following:",
+			"-Condensed White Potion",
+			"^5DADE2Activity Point Reward^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[12535] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Yggdrasil Berry Box (35)",
+		identifiedResourceName = "초록상자",
+		identifiedDescriptionName = {
+			"A box containing 35 of the following:",
+			"-Yggdrasil Berry",
+			"^5DADE2Activity Point Reward^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20238] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Cobweb Box (75)",
+		identifiedResourceName = "원한의상자",
+		identifiedDescriptionName = {
+			"A box containing 75 of the following:",
+			"-Cobweb",
+			"^5DADE2Activity Point Reward^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[20183] = {
 		unidentifiedDisplayName = "Unique Clip",
 		unidentifiedResourceName = "클립",
@@ -40702,16 +40846,12 @@ tbl = {
 		unidentifiedDisplayName = "Evil Snake Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Never be affected by Confusion and Curse effects.",
-			"INT + 3",
-			"Class :^777777 Card^000000",
-			"Compound on :^777777 Headgear^000000",
-			"Weight :^777777 1^000000"
+			"..."
 		},
 		identifiedDisplayName = "Evil Snake Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Never be affected by Confusion and Curse effects.",
+			"Never be affected by Blind and Curse effects.",
 			"INT + 3",
 			"Class :^777777 Card^000000",
 			"Compound on :^777777 Headgear^000000",
@@ -57610,6 +57750,22 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[6470] = {
+		unidentifiedDisplayName = "Blood Thirst",
+		unidentifiedResourceName = "피의갈증",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Blood Thirst",
+		identifiedResourceName = "피의갈증",
+		identifiedDescriptionName = {
+			"Reactionary forces causes the thirst for blood, used for combining biological materials in a testing lab.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[6493] = {
 		unidentifiedDisplayName = "Makibishi",
 		unidentifiedResourceName = "마키비시",
@@ -57678,6 +57834,55 @@ tbl = {
 		identifiedDisplayName = "Charm Earth",
 		identifiedResourceName = "땅의부적",
 		identifiedDescriptionName = {
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6228] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "피의갈증",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Ethereal Dyestuffs",
+		identifiedResourceName = "ethereal_dye",
+		identifiedDescriptionName = {
+			"Who knows what this dye contains...",
+			"It seems super mysterious, it must used for combining biological materials in a testing lab.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6559] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "피의갈증",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Aevir Oil",
+		identifiedResourceName = "큐어프리",
+		identifiedDescriptionName = {
+			"Essence of Life itself, used for combining biological materials in a testing lab.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[6604] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "피의갈증",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Human Essence",
+		identifiedResourceName = "블러드인스컬",
+		identifiedDescriptionName = {
+			"Human blood life, used for combining biological materials in a testing lab.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -93991,13 +94196,13 @@ tbl = {
 		unidentifiedDisplayName = "[G] Wing Picker (+0)",
 		unidentifiedResourceName = "bs_item_m_scroll",
 		unidentifiedDescriptionName = {
-			"Open to receive a ^FF9900+0 [G] Stat Wing^000000 of your chosing.",
+			"Open to receive a ^FF9900+0 [G] Stat Wing^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		identifiedDisplayName = "[G] Wing Picker (0+)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
-			"Open to receive a ^FF9900+0 [G] Stat Wing^000000 of your chosing.",
+			"Open to receive a ^FF9900+0 [G] Stat Wing^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -94007,13 +94212,13 @@ tbl = {
 		unidentifiedDisplayName = "[G] Wing Picker (+10)",
 		unidentifiedResourceName = "bs_item_m_scroll",
 		unidentifiedDescriptionName = {
-			"Open to receive a ^FF9900+10 [G] Stat Wing^000000 of your chosing.",
+			"Open to receive a ^FF9900+10 [G] Stat Wing^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		identifiedDisplayName = "[G] Wing Picker (+10)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
-			"Open to receive a ^FF9900+10 [G] Stat Wing^000000 of your chosing.",
+			"Open to receive a ^FF9900+10 [G] Stat Wing^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -94023,13 +94228,13 @@ tbl = {
 		unidentifiedDisplayName = "[G] Elite Weapon Picker (+0)",
 		unidentifiedResourceName = "bs_item_m_scroll",
 		unidentifiedDescriptionName = {
-			"Open to receive a ^FF9900+0 [G] Elite Weapon^000000 of your chosing.",
+			"Open to receive a ^FF9900+0 [G] Elite Weapon^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		identifiedDisplayName = "[G] Elite Weapon Picker (+0)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
-			"Open to receive a ^FF9900+0 [G] Elite Weapon^000000 of your chosing.",
+			"Open to receive a ^FF9900+0 [G] Elite Weapon^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -94039,13 +94244,13 @@ tbl = {
 		unidentifiedDisplayName = "[G] Elite Weapon Picker (+10)",
 		unidentifiedResourceName = "bs_item_m_scroll",
 		unidentifiedDescriptionName = {
-			"Open to receive a ^FF9900+10 [G] Elite Weapon^000000 of your chosing.",
+			"Open to receive a ^FF9900+10 [G] Elite Weapon^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		identifiedDisplayName = "[G] Elite Weapon Picker (+10)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
-			"Open to receive a ^FF9900+10 [G] Elite Weapon^000000 of your chosing.",
+			"Open to receive a ^FF9900+10 [G] Elite Weapon^000000 of your choosing.",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -95803,11 +96008,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"..."
 		},
-		identifiedDisplayName = "X-Mas Special: Event Card Grab-Bag",
+		identifiedDisplayName = "Event Card Grab-Bag",
 		identifiedResourceName = "고급주머니",
 		identifiedDescriptionName = {
 			"Open to get a random ^FF9900Event Card^000000.",
-			"^5DADE2Christmas 2020^000000",
+			"^5DADE2XileRetro Event Reward^000000",
 			"Weight : ^77777720^000000"
 		},
 		slotCount = 0,
@@ -96456,7 +96661,7 @@ tbl = {
 		identifiedDisplayName = "Unique Uber Weapon Picker (0+)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
-			"Open to receive a ^FF9900+0 Unique Uber Weapon^000000 of your chosing.",
+			"Open to receive a ^FF9900+0 Unique Uber Weapon^000000 of your choosing.",
 			"^FF9900Uber Weapon has Unique Stats^000000",
 			"Weight : ^7777771^000000"
 		},
@@ -97722,6 +97927,350 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 181
+	},
+	[3163] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Boots of Guidance",
+		identifiedResourceName = "프리코슈즈",
+		identifiedDescriptionName = {
+			"Mystic boots, that when equiped with special items, gives one wondrous powers.",
+			"+5 to All Stats",
+			"Class : ^777777Footgear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Weight : ^77777760^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3164] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Hero Plate Armor",
+		identifiedResourceName = "풀플레이트아머",
+		identifiedDescriptionName = {
+			"Very Heavy Armor worn only by true heroes.",
+			"STR +5, VIT +5, INT +5",
+			"[^0000FF+ Boots of Guidance^000000]",
+			"HP/SP +25%, SP Recovery +15%, MDEF +10",
+			"Class : ^777777Armor^000000",
+			"Defence Rate : ^77777711^000000",
+			"Weight : ^777777550^000000",
+			"Required lvl : ^77777770^000000",
+			"Available Job : ^777777Crusader^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3165] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Rally Plate Armor",
+		identifiedResourceName = "플레이트",
+		identifiedDescriptionName = {
+			"Heavy armor, used in the most intense times of battle.",
+			"STR +5, VIT +5, LUK +5",
+			"[^0000FF+ Boots of Guidance^000000]",
+			"HP/SP +25%, SP Recovery +15%, MDEF +10",
+			"Class : ^777777Armor^000000",
+			"Defence Rate : ^77777710^000000",
+			"Weight : ^777777450^000000",
+			"Required lvl : ^77777740^000000",
+			"Available Job : ^777777Swordsman^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3166] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Mithril Armor",
+		identifiedResourceName = "메일",
+		identifiedDescriptionName = {
+			"Mail armor formed from incredibly strong and light metal.",
+			"STR +5, VIT +5, INT +5, LUK +5",
+			"[^0000FF+ Boots of Guidance^000000]",
+			"HP/SP +25%, SP Recovery +15%, MDEF +10",
+			"Class : ^777777Armor^000000",
+			"Defence Rate : ^7777778^000000",
+			"Weight : ^777777330^000000",
+			"Available Job : ^777777Swordsman, Merchant, Thief^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3167] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Grand Gaiters",
+		identifiedResourceName = "타이즈",
+		identifiedDescriptionName = {
+			"A pair of loose pants, made for comfort and stealth.",
+			"STR +5, VIT +5, DEX +5, LUK +5",
+			"[^0000FF+ Boots of Guidance^000000]",
+			"HP/SP +25%, SP Recovery +15%, MDEF +10",
+			"Class : ^777777Armor^000000",
+			"Defence Rate : ^7777776^000000",
+			"Weight : ^77777750^000000",
+			"Required lvl : ^77777745^000000",
+			"Available Job : ^777777Archer^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3168] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Clothes of Brilliance",
+		identifiedResourceName = "글리터링클로스",
+		identifiedDescriptionName = {
+			"Clothes given to adepts with exceptional talent. ",
+			"STR +5, VIT +5, INT +5, LUK +5, DEX +5",
+			"[^0000FF+ Boots of Guidance^000000]",
+			"HP/SP +30%, SP Recovery +15%, MDEF +10",
+			"Class : ^777777Armor^000000",
+			"Defence Rate : ^7777772^000000",
+			"Weight : ^777777250^000000",
+			"Required lvl : ^77777760^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[3170] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Scarlet Angel Helm",
+		identifiedResourceName = "Scarlet_Angel_Helm",
+		identifiedDescriptionName = {
+			"Helm of the fallen Scarlet Angel.",
+			"DEX +4, STR +4, VIT +3, MDEF +3",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1440
+	},
+	[3171] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Scarlet Angel Wings",
+		identifiedResourceName = "Scarlet_Angel_Wings",
+		identifiedDescriptionName = {
+			"Wings of the fallen Scarlet Angel.",
+			"+5 to All Stats",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777750^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1441
+	},
+	[3172] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Scarlet Angel Ears",
+		identifiedResourceName = "Scarlet_Angel_Ears",
+		identifiedDescriptionName = {
+			"Ears of the fallen Scarlet Angel.",
+			"Add a 10% resistance against all Status Ailments.",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped On : ^777777Middle^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1442
+	},
+	[3173] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Emperor Helm",
+		identifiedResourceName = "Emperor_Helm",
+		identifiedDescriptionName = {
+			"Helm of the Emperor, ruler of all things.",
+			"INT +3, AGI +3, VIT +5, MDEF +3",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1443
+	},
+	[3174] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Emperor Wings",
+		identifiedResourceName = "Emperor_Wings",
+		identifiedDescriptionName = {
+			"Wings of the Emperor, ruler of all things.",
+			"+5 to All Stats",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777750^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1444
+	},
+	[3175] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Emperor Shoulders",
+		identifiedResourceName = "Emperor_Sholders",
+		identifiedDescriptionName = {
+			"Sholderpads of the Emperor, ruler of all things.",
+			"Max HP +5%",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped On : ^777777Middle^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1445
+	},
+	[3176] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Little Devil Horns",
+		identifiedResourceName = "Little_Devil_Horns",
+		identifiedDescriptionName = {
+			"Horns that mark one as a devil.",
+			"STR +5, VIT +1, MDEF +3",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1446
+	},
+	[3177] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Little Devil Wings",
+		identifiedResourceName = "Little_Devil_Wings",
+		identifiedDescriptionName = {
+			"Wings that mark one as a devil.",
+			"+5 to All Stats",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777750^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1447
+	},
+	[3178] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "프리코슈즈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Little Devil Tail",
+		identifiedResourceName = "Little_Devil_Tail",
+		identifiedDescriptionName = {
+			"A tail that mark one as a devil.",
+			"Add a 10% resistance against all Status Ailments.",
+			"[^0000FF+ xx^000000]",
+			"xx",
+			"xx",
+			"Class : ^777777Headgear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped On : ^777777Middle^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^777777200^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1448
 	},
 	[19118] = {
 		unidentifiedDisplayName = "Mossberg 500",
@@ -100124,7 +100673,7 @@ tbl = {
 			"^FF9900XileRetro^000000 Costume Headgear",
 			"Class : ^777777Head Gear^000000",
 			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Lower^000000",
+			"Equipped On : ^777777Middle^000000",
 			"Weight : ^77777710^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
@@ -100134,7 +100683,7 @@ tbl = {
 			"^FF9900XileRetro^000000 Costume Headgear",
 			"Class : ^777777Head Gear^000000",
 			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Lower^000000",
+			"Equipped On : ^777777Middle^000000",
 			"Weight : ^77777710^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
@@ -107062,7 +107611,7 @@ tbl = {
 		identifiedResourceName = "HEARTRING",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2 Exclusive^000000",
+		"^5DADE2Activity Point Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Middle^000000",
@@ -108806,7 +109355,7 @@ tbl = {
 		identifiedResourceName = "test_subject_aura",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108822,11 +109371,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Black",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura (Black)",
 		identifiedResourceName = "vibrant_test_subject_aura_black",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108842,11 +109391,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Fire Red",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura Fire (Red)",
 		identifiedResourceName = "vibrant_test_subject_aura_fire_red",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108862,11 +109411,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Gold",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura (Gold)",
 		identifiedResourceName = "vibrant_test_subject_aura_gold",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108882,11 +109431,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Lilac",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura (Lilac)",
 		identifiedResourceName = "vibrant_test_subject_aura_lilac",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108902,11 +109451,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Lime Green",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura (Lime Green)",
 		identifiedResourceName = "vibrant_test_subject_aura_lime_green",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108922,11 +109471,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Vibrant Test Subject Aura Violet",
+		identifiedDisplayName = "[C] Vibrant Test Subject Aura (Violet)",
 		identifiedResourceName = "vibrant_test_subject_aura_violet",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108942,11 +109491,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Black Ombre",
+		identifiedDisplayName = "[C] Test Subject Aura (Black Ombre)",
 		identifiedResourceName = "test_subject_aura_black_ombre",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108962,11 +109511,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Indigo Ombre",
+		identifiedDisplayName = "[C] Test Subject Aura (Indigo Ombre)",
 		identifiedResourceName = "test_subject_aura_indigo_ombre",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -108982,11 +109531,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Black Gold",
+		identifiedDisplayName = "[C] Test Subject Aura (Black Gold)",
 		identifiedResourceName = "test_subject_aura_black_gold",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109002,11 +109551,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Black Red",
+		identifiedDisplayName = "[C] Test Subject Aura (Black Red)",
 		identifiedResourceName = "test_subject_aura_black_red",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109022,11 +109571,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Black Violet",
+		identifiedDisplayName = "[C] Test Subject Aura (Black Violet)",
 		identifiedResourceName = "test_subject_aura_black_violet",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109042,11 +109591,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Split Angel",
+		identifiedDisplayName = "[C] Test Subject Aura (Split Angel)",
 		identifiedResourceName = "test_subject_aura_split_angel",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109062,11 +109611,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Split Demon",
+		identifiedDisplayName = "[C] Test Subject Aura (Split Demon)",
 		identifiedResourceName = "test_subject_aura_split_demon",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109082,11 +109631,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Fusion Pink",
+		identifiedDisplayName = "[C] Test Subject Aura (Fusion Pink)",
 		identifiedResourceName = "test_subject_aura_fusion_pink",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109102,11 +109651,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Test Subject Aura Teal",
+		identifiedDisplayName = "[C] Test Subject Aura (Teal)",
 		identifiedResourceName = "test_subject_aura_teal",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109122,11 +109671,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Faded Test Subject Aura Crimson Red",
+		identifiedDisplayName = "[C] Faded Test Subject Aura (Crimson Red)",
 		identifiedResourceName = "faded_test_subject_aura_crimson_red",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109142,11 +109691,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Faded Test Subject Aura Green",
+		identifiedDisplayName = "[C] Faded Test Subject Aura (Green)",
 		identifiedResourceName = "faded_test_subject_aura_green",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109162,11 +109711,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Faded Test Subject Aura Indigo",
+		identifiedDisplayName = "[C] Faded Test Subject Aura (Indigo)",
 		identifiedResourceName = "faded_test_subject_aura_indigo",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109182,11 +109731,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Faded Test Subject Aura Maroon",
+		identifiedDisplayName = "[C] Faded Test Subject Aura (Maroon)",
 		identifiedResourceName = "faded_test_subject_aura_maroon",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Biolabs Quest Exclsive^000000",
+		"^5DADE2Biolabs Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -109195,6 +109744,598 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1353
+	},
+	[19594] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Invocation Cape (Dark Side)",
+		identifiedResourceName = "blackinvocape",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1354
+	},
+	[19595] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Invocation Cape (Light Side)",
+		identifiedResourceName = "invocape_wh",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1355
+	},
+	[19596] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Navi Fairy (Purple)",
+		identifiedResourceName = "navi_purple",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1356
+	},
+	[19597] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Zombie Hands",
+		identifiedResourceName = "zombie_hands",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1357
+	},
+	[19598] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fox Tail",
+		identifiedResourceName = "fox_tail",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1358
+	},
+	[19599] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fox Tail (Black)",
+		identifiedResourceName = "fox_tail_black",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1359
+	},
+	[19600] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Wolf Tail",
+		identifiedResourceName = "wolf_tail",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1360
+	},
+	[19601] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Gothic Chain",
+		identifiedResourceName = "gothic_chain",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Veronica Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1428
+	},
+	[19602] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Gothic Scarf",
+		identifiedResourceName = "fashion_scarf",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Veronica Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1429
+	},
+	[19603] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Angeling Wings",
+		identifiedResourceName = "angeling_wings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1430
+	},
+	[19604] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Black)",
+		identifiedResourceName = "C_RK_Hair_BL",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1431
+	},
+	[19605] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Blue)",
+		identifiedResourceName = "C_RK_Hair_BU",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1432
+	},
+	[19606] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Green)",
+		identifiedResourceName = "C_RK_Hair_GN",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1433
+	},
+	[19607] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Brown)",
+		identifiedResourceName = "C_RK_Hair_OM",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1434
+	},
+	[19608] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Pink)",
+		identifiedResourceName = "C_RK_Hair_PK",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1435
+	},
+	[19609] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Purple)",
+		identifiedResourceName = "C_RK_Hair_PP",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1436
+	},
+	[19610] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Red)",
+		identifiedResourceName = "C_RK_Hair_RD",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1437
+	},
+	[19611] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (White)",
+		identifiedResourceName = "C_RK_Hair_WH",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1438
+	},
+	[19612] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Fluffy Perm (Yellow)",
+		identifiedResourceName = "C_RK_Hair_YL",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Hair Wig.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1439
+	},
+	[19613] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Gothic Love Cheeks",
+		identifiedResourceName = "Gothic_Love_Cheeks",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Veronica Exclusive^000000",
+		"Class : ^777777Head Gear^000000",
+		"Defense Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1449
+	},
+	[19614] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (Blue)",
+		identifiedResourceName = "lhzaura_blue",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1450
+	},
+	[19615] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (Gold)",
+		identifiedResourceName = "lhzaura_gold",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1451
+	},
+	[19616] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (Green)",
+		identifiedResourceName = "lhzaura_green",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1452
+	},
+	[19617] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (Pink)",
+		identifiedResourceName = "lhzaura_pink",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1453
+	},
+	[19618] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (Red)",
+		identifiedResourceName = "lhzaura_red",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1454
+	},
+	[19619] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Radiant Test Subject Aura (White)",
+		identifiedResourceName = "lhzaura_white",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Biolabs Quest Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1455
+	},
+	[19620] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Happy Cat",
+		identifiedResourceName = "c_happy_cat_tw",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Valentine's Day 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper/Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1456
+	},
+	[19621] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Love Cheeks",
+		identifiedResourceName = "러브발그레",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Valentine's Day 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1457
+	},
+	[19622] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mini Angeling",
+		identifiedResourceName = "c_tw_1st_balloon",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Valentine's Day 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1458
+	},
+	[19623] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Unicorn Ornament",
+		identifiedResourceName = "c_unicorn_ornament",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Valentine's Day 2021^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1459
 	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
