@@ -1,4 +1,21 @@
 tbl = {
+	[20239] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Poison Bottle Box (35)",
+		identifiedResourceName = "원한의상자",
+		identifiedDescriptionName = {
+			"A box containing 35 of the following:",
+			"-Poison Bottle",
+			"^5DADE2Activity Point Reward^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[21000] = {
 		unidentifiedDisplayName = "Sign of Love",
 		unidentifiedResourceName = "사랑의조각",
@@ -3151,7 +3168,7 @@ tbl = {
 		ClassNum = 0
 	},
 	[668] = {
-		unidentifiedDisplayName = "Christmas Card",
+		unidentifiedDisplayName = "Ren Envelope",
 		unidentifiedResourceName = "세뱃돈",
 		unidentifiedDescriptionName = {
 			"A red envelope which is given to children on New Year's Day.",
@@ -3159,7 +3176,7 @@ tbl = {
 			"^ffffff_^000000",
 			"Weight :^777777 2^000000"
 		},
-		identifiedDisplayName = "Christmas Card",
+		identifiedDisplayName = "Ren Envelope",
 		identifiedResourceName = "세뱃돈",
 		identifiedDescriptionName = {
 			"A red envelope which is given to children on New Year's Day.",
@@ -93214,19 +93231,13 @@ tbl = {
 		unidentifiedDisplayName = "STR Pocky",
 		unidentifiedResourceName = "힘의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"STR +10 for 30 Minutes.",
-		"+11~55 Atk For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- Atk Does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "STR Pocky",
 		identifiedResourceName = "힘의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"STR +10 for 30 Minutes.",
+		"STR +10 for 10 Minutes.",
 		"+11~55 Atk For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- Atk Does not Overlap with other bonus.^000000",
@@ -93240,19 +93251,13 @@ tbl = {
 		unidentifiedDisplayName = "VIT Pocky",
 		unidentifiedResourceName = "체력의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"VIT +10 for 30 Minutes.",
-		"+2~4% HP For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- HP Does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "VIT Pocky",
 		identifiedResourceName = "체력의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"VIT +10 for 30 Minutes.",
+		"VIT +10 for 10 Minutes.",
 		"+2~4% HP For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- HP Does not Overlap with other bonus.^000000",
@@ -93266,19 +93271,13 @@ tbl = {
 		unidentifiedDisplayName = "AGI Pocky",
 		unidentifiedResourceName = "민첩의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"AGI +10 for 30 Minutes.",
-		"+11~33 Flee For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- Flee Does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "AGI Pocky",
 		identifiedResourceName = "민첩의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"AGI +10 for 30 Minutes.",
+		"AGI +10 for 10 Minutes.",
 		"+11~33 Flee For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- Flee Does not Overlap with other bonus.^000000",
@@ -93292,19 +93291,13 @@ tbl = {
 		unidentifiedDisplayName = "INT Pocky",
 		unidentifiedResourceName = "지식의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"INT +10 for 30 Minutes.",
-		"+77~137 Matk For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- Matk Does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "INT Pocky",
 		identifiedResourceName = "지식의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"INT +10 for 30 Minutes.",
+		"INT +10 for 10 Minutes.",
 		"+77~137 Matk For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- Matk Does not Overlap with other bonus.^000000",
@@ -93318,19 +93311,13 @@ tbl = {
 		unidentifiedDisplayName = "DEX Pocky",
 		unidentifiedResourceName = "재주의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"DEX +10 for 30 Minutes.",
-		"+21~43 Hit For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- Hit Does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "DEX Pocky",
 		identifiedResourceName = "재주의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"DEX +10 for 30 Minutes.",
+		"DEX +10 for 10 Minutes.",
 		"+21~43 Hit For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- Hit Does not Overlap with other bonus.^000000",
@@ -93344,19 +93331,13 @@ tbl = {
 		unidentifiedDisplayName = "LUK Pocky",
 		unidentifiedResourceName = "행운의막대과자",
 		unidentifiedDescriptionName = {
-		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"LUK +10 for 30 Minutes.",
-		"+7~8 CRIT(Critical) For 10 Minutes.",
-		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
-		"^FF0000- Critical does not Overlap with other bonus.^000000",
-		"Fades on Death.",
-		"Weight : ^77777710^000000",
+		"...",
 		},
 		identifiedDisplayName = "LUK Pocky",
 		identifiedResourceName = "행운의막대과자",
 		identifiedDescriptionName = {
 		"^FF0000This Pocky was created to remember the day with most fireworks...^000000",
-		"LUK +10 for 30 Minutes.",
+		"LUK +10 for 10 Minutes.",
 		"+7~8 CRIT(Critical) For 10 Minutes.",
 		"^FF0000- Applies the Highest Stat Amongst All Bonuses.^000000",
 		"^FF0000- Critical does not Overlap with other bonus.^000000",
@@ -103992,7 +103973,7 @@ tbl = {
 			"^5DADE2Collector Kiki Exclusive^000000",
 			"Class : ^777777Head Gear^000000",
 			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Lower^000000",
+			"Equipped On : ^777777Middle^000000",
 			"Weight : ^77777710^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
@@ -104003,7 +103984,7 @@ tbl = {
 			"^5DADE2Collector Kiki Exclusive^000000",
 			"Class : ^777777Head Gear^000000",
 			"Defense Rate : ^7777770^000000",
-			"Equipped On : ^777777Lower^000000",
+			"Equipped On : ^777777Middle^000000",
 			"Weight : ^77777710^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
@@ -108938,7 +108919,7 @@ tbl = {
 		"^5DADE2Activity Point Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
-		"Equipped On : ^777777Middle^000000",
+		"Equipped On : ^777777Lower^000000",
 		"Weight : ^77777710^000000",
 		"Available Job : ^777777Every Job^000000",
 		},
@@ -110336,6 +110317,206 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1459
+	},
+	[19624] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Black)",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1460
+	},
+	[19625] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Lilac)",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1461
+	},
+	[19626] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Light Brown)",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1462
+	},
+	[19627] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (White)",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1463
+	},
+	[19628] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Elite Helm",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1465
+	},
+	[19629] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Elite Aura",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1466
+	},
+	[19630] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Elite Bandage Scarf",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1467
+	},
+	[19631] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Elite Sword",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1468
+	},
+	[19632] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Elite Angel Wings",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Garment^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 16
+	},
+	[19633] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Striking Blinking Eyes (Gold)",
+		identifiedResourceName = "c_",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Honor Points Exlusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1464
 	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",

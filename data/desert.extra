@@ -1,0 +1,24 @@
+<models>
+    <model id="0" lightopacity="1" />
+    <model id="1" lightopacity="1" />
+    <model id="2" lightopacity="1" />
+    <model id="3" lightopacity="1" />
+    <model id="4" lightopacity="1" />
+    <model id="5" lightopacity="1" />
+    <model id="6" lightopacity="1" />
+    <model id="7" lightopacity="1" />
+    <model id="8" lightopacity="1" />
+    <model id="9" lightopacity="1" />
+</models>
+<lights>
+    <light id="0" givesshadow="false">
+        <range>511.000000</range>
+        <maxlightincrement>256.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="1" givesshadow="true">
+        <range>220.000000</range>
+        <maxlightincrement>256.000000</maxlightincrement>
+        <lightfalloff>1.000000</lightfalloff>
+    </light>
+</lights>
