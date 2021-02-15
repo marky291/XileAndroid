@@ -161,7 +161,7 @@ tbl = {
 		ClassNum = 0
 	},
 	[20183] = {
-		unidentifiedDisplayName = "Unique Clip",
+		unidentifiedDisplayName = "[U] Clip",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
 			"An accessory. Possible to attach on everything. ",
@@ -173,7 +173,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
-		identifiedDisplayName = "Unique Clip",
+		identifiedDisplayName = "[U] Clip",
 		identifiedResourceName = "클립",
 		identifiedDescriptionName = {
 			"An accessory. Possible to attach on everything. ",
@@ -96639,7 +96639,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"..."
 		},
-		identifiedDisplayName = "Unique Uber Weapon Picker (0+)",
+		identifiedDisplayName = "[U] Uber Weapon Picker (0+)",
 		identifiedResourceName = "bs_item_m_scroll",
 		identifiedDescriptionName = {
 			"Open to receive a ^FF9900+0 Unique Uber Weapon^000000 of your choosing.",
@@ -96647,6 +96647,402 @@ tbl = {
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
+		ClassNum = 0
+	},
+	[20242] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Strength Ring of Reaping",
+		identifiedResourceName = "str1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"STR +45, ATK +25, CRIT +3",
+			"HP +3%, MDEF +6",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20243] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Strength Ring of Haste",
+		identifiedResourceName = "str2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"STR +45, FLEE +15, Movement +5%",
+			"HP +5%, MDEF +6",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20244] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Strength Ring of Vigor",
+		identifiedResourceName = "str3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"STR +45, HIT +25, ASPD +5",
+			"DEF +1, MDEF +6",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20245] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Agility Ring of Reaping",
+		identifiedResourceName = "agi1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"AGI +5, ATK +30",
+			"HP +3%, FLEE +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20246] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Agility Ring of Haste",
+		identifiedResourceName = "agi2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"AGI +5, Movement +5%",
+			"HP +5%, FLEE +15",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20247] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Agility Ring of Vigor",
+		identifiedResourceName = "agi3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"AGI +5, ASPD +15",
+			"DEF +1, MDEF +2",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20248] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Vitality Ring of Reaping",
+		identifiedResourceName = "vit1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"VIT +5, ATK +20",
+			"HP +4%, MATK +40",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20249] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Vitality Ring of Haste",
+		identifiedResourceName = "vit2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"VIT +5, Movement +5%",
+			"HP +6%, FLEE +10",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20250] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Vitality Ring of Vigor",
+		identifiedResourceName = "vit3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"VIT +5, MDEF +2",
+			"HP +3%, FLEE +15",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20251] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Intelligence Ring of Reaping",
+		identifiedResourceName = "int1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"INT +5, MATK +60",
+			"HP +3%, HIT +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20252] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Intelligence Ring of Haste",
+		identifiedResourceName = "int2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"INT +5, Movement +5%",
+			"HP +5%, HIT +25",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20253] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Intelligence Ring of Vigor",
+		identifiedResourceName = "int3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"INT +5, MDEF +2",
+			"DEF +1, HIT +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20254] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Dexterity Ring of Reaping",
+		identifiedResourceName = "dex1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"DEX +5, CRIT +3",
+			"HP +3%, ATK +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20255] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Dexterity Ring of Haste",
+		identifiedResourceName = "dex2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"DEX +5, Movement +5%",
+			"HP +5%, HIT +25",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20256] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Dexterity Ring of Vigor",
+		identifiedResourceName = "dex3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"DEX +5, MDEF +2",
+			"HIT +20, ATK +10",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20257] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Luck Ring of Reaping",
+		identifiedResourceName = "luk1",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"LUK +5, CRIT +4",
+			"HP +3%, ATK +25",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20258] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Luck Ring of Haste",
+		identifiedResourceName = "luk2",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"LUK +5, Movement +5%",
+			"HP +5%, HIT +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20259] = {
+		unidentifiedDisplayName = "[U] Ring",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Luck Ring of Vigor",
+		identifiedResourceName = "luk3",
+		identifiedDescriptionName = {
+			"An ultimate Uber Accessory, forged from greatness!",
+			"LUK +5, MDEF +2",
+			"DEF +1, ATK +20",
+			"^FF9900Has Unique Stats^000000",
+			"Class : ^777777Accessory^000000",
+			"Defence Rate : ^7777770^000000",
+			"Weight : ^7777771^000000",
+			"Required Level : ^777777NA^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[20057] = {
@@ -98460,7 +98856,7 @@ tbl = {
 		ClassNum = 188
 	},
 	[19125] = {
-		unidentifiedDisplayName = "Unique Staff of Ages",
+		unidentifiedDisplayName = "[U] Staff of Ages",
 		unidentifiedResourceName = "위자드리스태프",
 		unidentifiedDescriptionName = {
 			"Staff, with powers said, strong enough to stop time itself. ",
@@ -98472,7 +98868,7 @@ tbl = {
 			"Required lvl : ^77777790^000000",
 			"Available Job : ^777777Mage^000000"
 		},
-		identifiedDisplayName = "Unique Staff of Ages",
+		identifiedDisplayName = "[U] Staff of Ages",
 		identifiedResourceName = "위자드리스태프",
 		identifiedDescriptionName = {
 			"Staff, with powers said, strong enough to stop time itself. ",
@@ -98489,7 +98885,7 @@ tbl = {
 		ClassNum = 10
 	},
 	[19126] = {
-		unidentifiedDisplayName = "Unique Soul Seeker",
+		unidentifiedDisplayName = "[U] Soul Seeker",
 		unidentifiedResourceName = "발리스타",
 		unidentifiedDescriptionName = {
 			"Bow, with speed and accuracy that are unrivaled. ",
@@ -98501,7 +98897,7 @@ tbl = {
 			"Required lvl : ^77777777^000000",
 			"Available Job : ^777777Hunter, Bard, Dancer^000000"
 		},
-		identifiedDisplayName = "Unique Soul Seeker",
+		identifiedDisplayName = "[U] Soul Seeker",
 		identifiedResourceName = "발리스타",
 		identifiedDescriptionName = {
 			"Bow, with speed and accuracy that are unrivaled. ",
@@ -98518,7 +98914,7 @@ tbl = {
 		ClassNum = 11
 	},
 	[19127] = {
-		unidentifiedDisplayName = "Unique Holy Book",
+		unidentifiedDisplayName = "[U] Holy Book",
 		unidentifiedResourceName = "묵시록",
 		unidentifiedDescriptionName = {
 			"Book, used by grand Priest and Sages to stop Armageddon. ",
@@ -98532,7 +98928,7 @@ tbl = {
 			"Required lvl : ^77777740^000000",
 			"Available Job : ^777777Priest, Sage^000000"
 		},
-		identifiedDisplayName = "Unique Holy Book",
+		identifiedDisplayName = "[U] Holy Book",
 		identifiedResourceName = "묵시록",
 		identifiedDescriptionName = {
 			"Book, used by grand Priest and Sages to stop Armageddon. ",
@@ -98550,7 +98946,7 @@ tbl = {
 		ClassNum = 8
 	},
 	[19128] = {
-		unidentifiedDisplayName = "Unique Oblivion Blade",
+		unidentifiedDisplayName = "[U] Oblivion Blade",
 		unidentifiedResourceName = "프린세스나이프",
 		unidentifiedDescriptionName = {
 			"Large blade, which grants anyone who wears it massive power. ",
@@ -98563,7 +98959,7 @@ tbl = {
 			"Required lvl : ^7777771^000000",
 			"Available Job : ^777777Every Job^000000"
 		},
-		identifiedDisplayName = "Unique Oblivion Blade",
+		identifiedDisplayName = "[U] Oblivion Blade",
 		identifiedResourceName = "프린세스나이프",
 		identifiedDescriptionName = {
 			"Large blade, which grants anyone who wears it massive power. ",
@@ -98580,7 +98976,7 @@ tbl = {
 		ClassNum = 173
 	},
 	[19129] = {
-		unidentifiedDisplayName = "Unique Frenzic",
+		unidentifiedDisplayName = "[U] Frenzic",
 		unidentifiedResourceName = "베르세르크",
 		unidentifiedDescriptionName = {
 			"Insanely sharp claws, used for hunting only the most massive of beast. ",
@@ -98592,7 +98988,7 @@ tbl = {
 			"Required lvl : ^77777736^000000",
 			"Available Job : ^777777Priest, Monk^000000"
 		},
-		identifiedDisplayName = "Unique Frenzic",
+		identifiedDisplayName = "[U] Frenzic",
 		identifiedResourceName = "베르세르크",
 		identifiedDescriptionName = {
 			"Insanely sharp claws, used for hunting only the most massive of beast. ",
@@ -98609,7 +99005,7 @@ tbl = {
 		ClassNum = 174
 	},
 	[19130] = {
-		unidentifiedDisplayName = "Unique Katar of Chaos",
+		unidentifiedDisplayName = "[U] Katar of Chaos",
 		unidentifiedResourceName = "자마다르",
 		unidentifiedDescriptionName = {
 			"Katar which brings only chaos with its blades. ",
@@ -98621,7 +99017,7 @@ tbl = {
 			"Required lvl : ^77777727^000000",
 			"Available Job : ^777777Assasin^000000"
 		},
-		identifiedDisplayName = "Unique Katar of Chaos",
+		identifiedDisplayName = "[U] Katar of Chaos",
 		identifiedResourceName = "자마다르",
 		identifiedDescriptionName = {
 			"Katar which brings only chaos with its blades. ",
@@ -98638,12 +99034,12 @@ tbl = {
 		ClassNum = 175
 	},
 	[19131] = {
-		unidentifiedDisplayName = "Unique Reaper",
+		unidentifiedDisplayName = "[U] Reaper",
 		unidentifiedResourceName = "슬러터",
 		unidentifiedDescriptionName = {
 			"..."
 		},
-		identifiedDisplayName = "Unique Reaper",
+		identifiedDisplayName = "[U] Reaper",
 		identifiedResourceName = "슬러터",
 		identifiedDescriptionName = {
 			"Long and fast axe, used to defend and protect ones assets.",
@@ -98661,7 +99057,7 @@ tbl = {
 		ClassNum = 176
 	},
 	[19132] = {
-		unidentifiedDisplayName = "Unique Wind Weaver",
+		unidentifiedDisplayName = "[U] Wind Weaver",
 		unidentifiedResourceName = "기타",
 		unidentifiedDescriptionName = {
 			"Guitar, which projects arrows that peirce the wind.",
@@ -98673,7 +99069,7 @@ tbl = {
 			"Required lvl : ^77777727^000000",
 			"Available Job : ^777777Bard^000000"
 		},
-		identifiedDisplayName = "Unique Wind Weaver",
+		identifiedDisplayName = "[U] Wind Weaver",
 		identifiedResourceName = "기타",
 		identifiedDescriptionName = {
 			"Guitar, which projects arrows that peirce the wind.",
@@ -98690,7 +99086,7 @@ tbl = {
 		ClassNum = 13
 	},
 	[19133] = {
-		unidentifiedDisplayName = "Unique Dark Defier",
+		unidentifiedDisplayName = "[U] Dark Defier",
 		unidentifiedResourceName = "브류나크",
 		unidentifiedDescriptionName = {
 			"Spear of deep, twisted defiance. ",
@@ -98703,7 +99099,7 @@ tbl = {
 			"Required lvl : ^77777748^000000",
 			"Available Job : ^777777Swordsman^000000"
 		},
-		identifiedDisplayName = "Unique Dark Defier",
+		identifiedDisplayName = "[U] Dark Defier",
 		identifiedResourceName = "브류나크",
 		identifiedDescriptionName = {
 			"Spear of deep, twisted defiance. ",
@@ -98720,7 +99116,7 @@ tbl = {
 		ClassNum = 178
 	},
 	[19134] = {
-		unidentifiedDisplayName = "Unique Phoenix Wing",
+		unidentifiedDisplayName = "[U] Phoenix Wing",
 		unidentifiedResourceName = "테일핑",
 		unidentifiedDescriptionName = {
 			"A Sword that grants the perfect balance of power. ",
@@ -98732,7 +99128,7 @@ tbl = {
 			"Required lvl : ^77777740^000000",
 			"Available Job : ^777777Swordsman, Merchant,Thief^000000"
 		},
-		identifiedDisplayName = "Unique Phoenix Wing",
+		identifiedDisplayName = "[U] Phoenix Wing",
 		identifiedResourceName = "테일핑",
 		identifiedDescriptionName = {
 			"A Sword that grants the perfect balance of power. ",
@@ -98749,7 +99145,7 @@ tbl = {
 		ClassNum = 179
 	},
 	[19135] = {
-		unidentifiedDisplayName = "Unique Retribution",
+		unidentifiedDisplayName = "[U] Retribution",
 		unidentifiedResourceName = "무라마사",
 		unidentifiedDescriptionName = {
 			"Sword with dark powers, used for the light of good. ",
@@ -98761,7 +99157,7 @@ tbl = {
 			"Required lvl : ^77777740^000000",
 			"Available Job : ^777777Swordsman^000000"
 		},
-		identifiedDisplayName = "Unique Retribution",
+		identifiedDisplayName = "[U] Retribution",
 		identifiedResourceName = "무라마사",
 		identifiedDescriptionName = {
 			"Sword with dark powers, used for the light of good. ",
@@ -98778,7 +99174,7 @@ tbl = {
 		ClassNum = 180
 	},
 	[19136] = {
-		unidentifiedDisplayName = "Unique Raging Mic",
+		unidentifiedDisplayName = "[U] Raging Mic",
 		unidentifiedResourceName = "테일",
 		unidentifiedDescriptionName = {
 			"A mic enhanced to send out massive beatdowns.",
@@ -98790,7 +99186,7 @@ tbl = {
 			"Required lvl : ^77777730^000000",
 			"Available Job : ^777777Dancer^000000"
 		},
-		identifiedDisplayName = "Unique Raging Mic",
+		identifiedDisplayName = "[U] Raging Mic",
 		identifiedResourceName = "테일",
 		identifiedDescriptionName = {
 			"A mic enhanced to send out massive beatdowns.",
@@ -98807,7 +99203,7 @@ tbl = {
 		ClassNum = 181
 	},
 	[19137] = {
-		unidentifiedDisplayName = "Unique Mossberg 500",
+		unidentifiedDisplayName = "[U] Mossberg 500",
 		unidentifiedResourceName = "blut_shotgun",
 		unidentifiedDescriptionName = {
 			"This Mossberg has its barrel reinforced with Carnium, making it a solid shotgun.",
@@ -98820,7 +99216,7 @@ tbl = {
 			"Required Level :^777777 70^000000",
 			"Applicable Job :^777777 Gunslinger^000000"
 		},
-		identifiedDisplayName = "Unique Mossberg 500",
+		identifiedDisplayName = "[U] Mossberg 500",
 		identifiedResourceName = "blut_shotgun",
 		identifiedDescriptionName = {
 			"This Mossberg has its barrel reinforced with Carnium, making it a solid shotgun.",
@@ -98838,7 +99234,7 @@ tbl = {
 		ClassNum = 20
 	},
 	[19138] = {
-		unidentifiedDisplayName = "Unique Vulcan Minigun",
+		unidentifiedDisplayName = "[U] Vulcan Minigun",
 		unidentifiedResourceName = "blut_gatling",
 		unidentifiedDescriptionName = {
 			"This minigun fires in rapid succession with an electronic controlled rotating barrel.",
@@ -98852,7 +99248,7 @@ tbl = {
 			"Required Level :^777777 68^000000",
 			"Available Job :^777777 Gunslinger^000000"
 		},
-		identifiedDisplayName = "Unique Vulcan Minigun",
+		identifiedDisplayName = "[U] Vulcan Minigun",
 		identifiedResourceName = "blut_gatling",
 		identifiedDescriptionName = {
 			"This minigun fires in rapid succession with an electronic controlled rotating barrel.",
@@ -98870,7 +99266,7 @@ tbl = {
 		ClassNum = 19
 	},
 	[19139] = {
-		unidentifiedDisplayName = "Unique Hawk RPG",
+		unidentifiedDisplayName = "[U] Hawk RPG",
 		unidentifiedResourceName = "blut_launcher",
 		unidentifiedDescriptionName = {
 			"A high performance grenade launcher, notable Stone of Sage inlays grace the handle.",
@@ -98884,7 +99280,7 @@ tbl = {
 			"Required Level :^777777 52^000000",
 			"Applicable Job :^777777 Gunslinger^000000"
 		},
-		identifiedDisplayName = "Unique Hawk RPG",
+		identifiedDisplayName = "[U] Hawk RPG",
 		identifiedResourceName = "blut_launcher",
 		identifiedDescriptionName = {
 			"A high performance grenade launcher, notable Stone of Sage inlays grace the handle.",
@@ -98902,7 +99298,7 @@ tbl = {
 		ClassNum = 21
 	},
 	[19140] = {
-		unidentifiedDisplayName = "Unique Lee-Enfield",
+		unidentifiedDisplayName = "[U] Lee-Enfield",
 		unidentifiedResourceName = "blut_rifle",
 		unidentifiedDescriptionName = {
 			"A high performance rifle whose shots have long range and great power.",
@@ -98914,7 +99310,7 @@ tbl = {
 			"Required Level :^777777 24^000000",
 			"Applicable Job :^777777 Gunslinger^000000"
 		},
-		identifiedDisplayName = "Unique Lee-Enfield",
+		identifiedDisplayName = "[U] Lee-Enfield",
 		identifiedResourceName = "blut_rifle",
 		identifiedDescriptionName = {
 			"A high performance rifle whose shots have long range and great power.",
@@ -98931,7 +99327,7 @@ tbl = {
 		ClassNum = 18
 	},
 	[19141] = {
-		unidentifiedDisplayName = "Unique Ancient Celestial Chronicles",
+		unidentifiedDisplayName = "[U] Ancient Celestial Chronicles",
 		unidentifiedResourceName = "빛나는책",
 		unidentifiedDescriptionName = {
 			"An ancient book of sacred texts handed down the royal celestial body bloodline.",
@@ -98945,7 +99341,7 @@ tbl = {
 			"Required Level :^777777 70^000000",
 			"Applicable Job :^777777 Priest, Sage, Star Gladiator^000000"
 		},
-		identifiedDisplayName = "Unique Ancient Celestial Chronicles",
+		identifiedDisplayName = "[U] Ancient Celestial Chronicles",
 		identifiedResourceName = "빛나는책",
 		identifiedDescriptionName = {
 			"An ancient book of sacred texts handed down the royal celestial body bloodline.",
@@ -98964,7 +99360,7 @@ tbl = {
 		ClassNum = 15
 	},
 	[19142] = {
-		unidentifiedDisplayName = "Unique Colt 36",
+		unidentifiedDisplayName = "[U] Colt 36",
 		unidentifiedResourceName = "blut_pistol",
 		unidentifiedDescriptionName = {
 			"A notorious and rare revolver that is only produced when specially ordered.",
@@ -98976,7 +99372,7 @@ tbl = {
 			"Required Level :^777777 55^000000",
 			"Applicable Job :^777777 Gunslinger^000000"
 		},
-		identifiedDisplayName = "Unique Colt 36",
+		identifiedDisplayName = "[U] Colt 36",
 		identifiedResourceName = "blut_pistol",
 		identifiedDescriptionName = {
 			"A notorious and rare revolver that is only produced when specially ordered.",
@@ -98993,7 +99389,7 @@ tbl = {
 		ClassNum = 17
 	},
 	[19143] = {
-		unidentifiedDisplayName = "Unique Devil Huuma Shuriken",
+		unidentifiedDisplayName = "[U] Devil Huuma Shuriken",
 		unidentifiedResourceName = "devil_huuma_shuriken",
 		unidentifiedDescriptionName = {
 			"A heavy, giant shuriken shaped like a bladed wheel. Shrouded in radient iridescent metal.",
@@ -99005,7 +99401,7 @@ tbl = {
 			"Required Level :^777777 42^000000",
 			"Applicable Job :^777777 Ninja^000000"
 		},
-		identifiedDisplayName = "Unique Devil Huuma Shuriken",
+		identifiedDisplayName = "[U] Devil Huuma Shuriken",
 		identifiedResourceName = "devil_huuma_shuriken",
 		identifiedDescriptionName = {
 			"A heavy, giant shuriken shaped like a bladed wheel. Shrouded in radient iridescent metal.",
@@ -110325,7 +110721,7 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] High Ponytail (Black)",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "c_ab_hair_bl",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
 		"^5DADE2Gwenivere Exclusive^000000",
@@ -110344,8 +110740,8 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] High Ponytail (Lilac)",
-		identifiedResourceName = "c_",
+		identifiedDisplayName = "[C] High Ponytail (Light Purple)",
+		identifiedResourceName = "c_ab_hair_lpp",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
 		"^5DADE2Gwenivere Exclusive^000000",
@@ -110364,8 +110760,8 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] High Ponytail (Light Brown)",
-		identifiedResourceName = "c_",
+		identifiedDisplayName = "[C] High Ponytail (Brown)",
+		identifiedResourceName = "c_ab_hair_om",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
 		"^5DADE2Gwenivere Exclusive^000000",
@@ -110385,7 +110781,7 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] High Ponytail (White)",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "c_ab_hair_wh",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
 		"^5DADE2Gwenivere Exclusive^000000",
@@ -110405,10 +110801,11 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Elite Helm",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "elite_helm",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Honor Points Exclusive^000000",
+		"Made by Wasaru~",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",
@@ -110425,10 +110822,11 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Elite Aura",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "elite_aura",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Honor Points Exclusive^000000",
+		"Made by Wasaru~",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Middle^000000",
@@ -110445,13 +110843,13 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Elite Bandage Scarf",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "white_bandage_scarf",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Honor Points Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
-		"Equipped On : ^777777Middle^000000",
+		"Equipped On : ^777777Lower^000000",
 		"Weight : ^77777710^000000",
 		"Available Job : ^777777Every Job^000000",
 		},
@@ -110465,10 +110863,10 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Elite Sword",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "elite_sword",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Honor Points Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -110485,10 +110883,10 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Elite Angel Wings",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "elite_angel_wings",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Honor Points Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Garment^000000",
@@ -110505,10 +110903,10 @@ tbl = {
 		"...",
 		},
 		identifiedDisplayName = "[C] Striking Blinking Eyes (Gold)",
-		identifiedResourceName = "c_",
+		identifiedResourceName = "c_blink_eyes_golden",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Honor Points Exlusive^000000",
+		"^5DADE2Cash Shop Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Middle^000000",
@@ -117018,6 +117416,2066 @@ tbl = {
 			"Weight : ^77777720^000000"
 		},
 		slotCount = 1,
+		ClassNum = 0
+	},
+	[22000] = {
+		unidentifiedDisplayName = "[C] Sunglasses",
+		unidentifiedResourceName = "선글래스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sunglasses",
+		identifiedResourceName = "선글래스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000 ",
+			"Equipped On : ^777777Middle^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 12
+	},
+	[22001] = {
+		unidentifiedDisplayName = "[C] Diver Goggles",
+		unidentifiedResourceName = "물안경",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Diver Goggles",
+		identifiedResourceName = "물안경",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 10
+	},
+	[22002] = {
+		unidentifiedDisplayName = "[C] Wedding Veil",
+		unidentifiedResourceName = "면사포",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Wedding Veil",
+		identifiedResourceName = "면사포",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 44
+	},
+	[22003] = {
+		unidentifiedDisplayName = "[C] Fancy Flower",
+		unidentifiedResourceName = "장식용꽃",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Fancy Flower",
+		identifiedResourceName = "장식용꽃",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4
+	},
+	[22004] = {
+		unidentifiedDisplayName = "[C] Bandana",
+		unidentifiedResourceName = "두건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Bandana",
+		identifiedResourceName = "두건",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 6
+	},
+	[22005] = {
+		unidentifiedDisplayName = "[C] Eye Patch",
+		unidentifiedResourceName = "안대",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Eye Patch",
+		identifiedResourceName = "안대",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 13
+	},
+	[22006] = {
+		unidentifiedDisplayName = "[C] Kitty Band",
+		unidentifiedResourceName = "고양이머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Kitty Band",
+		identifiedResourceName = "고양이머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2
+	},
+	[22007] = {
+		unidentifiedDisplayName = "[C] Flower Band",
+		unidentifiedResourceName = "꽃머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Flower Band",
+		identifiedResourceName = "꽃머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 5
+	},
+	[22008] = {
+		unidentifiedDisplayName = "[C] Tiara",
+		unidentifiedResourceName = "티아라",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Tiara",
+		identifiedResourceName = "티아라",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense :^777777 4^000000Defence Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Required lvl : ^77777745^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 19
+	},
+	[22009] = {
+		unidentifiedDisplayName = "[C] Crown",
+		unidentifiedResourceName = "크라운",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Crown",
+		identifiedResourceName = "크라운",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Required lvl : ^77777745^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 45
+	},
+	[22010] = {
+		unidentifiedDisplayName = "[C] Santa Hat",
+		unidentifiedResourceName = "산타모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Santa Hat",
+		identifiedResourceName = "산타모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 20
+	},
+	[22011] = {
+		unidentifiedDisplayName = "[C] Purple Glasses",
+		unidentifiedResourceName = "고급선글래스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Purple Glasses",
+		identifiedResourceName = "고급선글래스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 26
+	},
+	[22012] = {
+		unidentifiedDisplayName = "[C] Geek Glasses",
+		unidentifiedResourceName = "스핀글래스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Geek Glasses",
+		identifiedResourceName = "스핀글래스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 27
+	},
+	[22013] = {
+		unidentifiedDisplayName = "[C] Big Ribbon",
+		unidentifiedResourceName = "왕리본",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Big Ribbon",
+		identifiedResourceName = "왕리본",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 28
+	},
+	[22014] = {
+		unidentifiedDisplayName = "[C] Sweet Gent",
+		unidentifiedResourceName = "스위트젠틀",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sweet Gent",
+		identifiedResourceName = "스위트젠틀",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 29
+	},
+	[22015] = {
+		unidentifiedDisplayName = "[C] Golden Gear",
+		unidentifiedResourceName = "골든헤드기어",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Golden Gear",
+		identifiedResourceName = "골든헤드기어",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777775^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777790^000000",
+			"Required lvl : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 30
+	},
+	[22016] = {
+		unidentifiedDisplayName = "[C] Romantic Gent",
+		unidentifiedResourceName = "올드스터로맨스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Romantic Gent",
+		identifiedResourceName = "올드스터로맨스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31
+	},
+	[22017] = {
+		unidentifiedDisplayName = "[C] Western Grace",
+		unidentifiedResourceName = "웨스턴그레이스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Western Grace",
+		identifiedResourceName = "웨스턴그레이스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 32
+	},
+	[22018] = {
+		unidentifiedDisplayName = "[C] Coronet",
+		unidentifiedResourceName = "코로넷",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Coronet",
+		identifiedResourceName = "코로넷",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 33
+	},
+	[22019] = {
+		unidentifiedDisplayName = "[C] Cute Ribbon",
+		unidentifiedResourceName = "머리끈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Cute Ribbon",
+		identifiedResourceName = "머리끈",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 34
+	},
+	[22020] = {
+		unidentifiedDisplayName = "[C] Monk Hat",
+		unidentifiedResourceName = "성직자의모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Monk Hat",
+		identifiedResourceName = "성직자의모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777775^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 35
+	},
+	[22021] = {
+		unidentifiedDisplayName = "[C] Wizard Hat",
+		unidentifiedResourceName = "위저드햇",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Wizard Hat",
+		identifiedResourceName = "위저드햇",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 36
+	},
+	[22022] = {
+		unidentifiedDisplayName = "[C] Sunflower",
+		unidentifiedResourceName = "장식용해바라기",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sunflower",
+		identifiedResourceName = "장식용해바라기",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 37
+	},
+	[22023] = {
+		unidentifiedDisplayName = "[C] Angel Wing",
+		unidentifiedResourceName = "천사의머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Angel Wing",
+		identifiedResourceName = "천사의머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 38
+	},
+	[22024] = {
+		unidentifiedDisplayName = "[C] Evil Wing",
+		unidentifiedResourceName = "악마의머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Evil Wing",
+		identifiedResourceName = "악마의머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 39
+	},
+	[22025] = {
+		unidentifiedDisplayName = "[C] Majestic Goat",
+		unidentifiedResourceName = "마제스틱고우트",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Majestic Goat",
+		identifiedResourceName = "마제스틱고우트",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777775^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777780^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 41
+	},
+	[22026] = {
+		unidentifiedDisplayName = "[C] Spiky Band",
+		unidentifiedResourceName = "샤프헤드기어",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Spiky Band",
+		identifiedResourceName = "샤프헤드기어",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777776^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^777777100^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 43
+	},
+	[22027] = {
+		unidentifiedDisplayName = "[C] Mini Propeller",
+		unidentifiedResourceName = "프로펠라",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Mini Propeller",
+		identifiedResourceName = "프로펠라",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 46
+	},
+	[22028] = {
+		unidentifiedDisplayName = "[C] Mini Glasses",
+		unidentifiedResourceName = "미니글래스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Mini Glasses",
+		identifiedResourceName = "미니글래스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 47
+	},
+	[22029] = {
+		unidentifiedDisplayName = "[C] Army Cap",
+		unidentifiedResourceName = "프론테라군모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Army Cap",
+		identifiedResourceName = "프론테라군모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 48
+	},
+	[22030] = {
+		unidentifiedDisplayName = "[C] Pierrot Nose",
+		unidentifiedResourceName = "광대코",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Pierrot Nose",
+		identifiedResourceName = "광대코",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 49
+	},
+	[22031] = {
+		unidentifiedDisplayName = "[C] Zoro Masque",
+		unidentifiedResourceName = "의적안대",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Zoro Masque",
+		identifiedResourceName = "의적안대",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 50
+	},
+	[22032] = {
+		unidentifiedDisplayName = "[C] Munak Hat",
+		unidentifiedResourceName = "무낙모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Munak Hat",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped On : ^777777Upper, Mid, Lower^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 51
+	},
+	[22033] = {
+		unidentifiedDisplayName = "[C] Iron Cain",
+		unidentifiedResourceName = "아이언케인",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Iron Cain",
+		identifiedResourceName = "아이언케인",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777730^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 53
+	},
+	[22034] = {
+		unidentifiedDisplayName = "[C] Cigar",
+		unidentifiedResourceName = "담배",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Cigar",
+		identifiedResourceName = "담배",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 54
+	},
+	[22035] = {
+		unidentifiedDisplayName = "[C] Jack a Dandy",
+		unidentifiedResourceName = "머리안경",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Jack a Dandy",
+		identifiedResourceName = "머리안경",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 58
+	},
+	[22036] = {
+		unidentifiedDisplayName = "[C] Stop Post",
+		unidentifiedResourceName = "정지표지판",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Stop Post",
+		identifiedResourceName = "정지표지판",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 59
+	},
+	[22037] = {
+		unidentifiedDisplayName = "[C] Doctor Band",
+		unidentifiedResourceName = "의사머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Doctor Band",
+		identifiedResourceName = "의사머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 60
+	},
+	[22038] = {
+		unidentifiedDisplayName = "[C] Ghost Bandana",
+		unidentifiedResourceName = "망자의머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Ghost Bandana",
+		identifiedResourceName = "망자의머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 61
+	},
+	[22039] = {
+		unidentifiedDisplayName = "[C] Red Bandana",
+		unidentifiedResourceName = "반다나",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Red Bandana",
+		identifiedResourceName = "반다나",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62
+	},
+	[22040] = {
+		unidentifiedDisplayName = "[C] Eagle Eyes",
+		unidentifiedResourceName = "도끼눈",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Eagle Eyes",
+		identifiedResourceName = "도끼눈",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 63
+	},
+	[22041] = {
+		unidentifiedDisplayName = "[C] Nurse Cap",
+		unidentifiedResourceName = "간호모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Nurse Cap",
+		identifiedResourceName = "간호모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 64
+	},
+	[22042] = {
+		unidentifiedDisplayName = "[C] Bomb Wick",
+		unidentifiedResourceName = "심지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Bomb Wick",
+		identifiedResourceName = "심지",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 66
+	},
+	[22043] = {
+		unidentifiedDisplayName = "[C] Sakkat",
+		unidentifiedResourceName = "삿갓",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sakkat",
+		identifiedResourceName = "삿갓",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 67
+	},
+	[22044] = {
+		unidentifiedDisplayName = "[C] Opera Masque",
+		unidentifiedResourceName = "오페라가면",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Opera Masque",
+		identifiedResourceName = "오페라가면",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777772^000000",
+			"Equipped On : ^777777Mid, Lower^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 68
+	},
+	[22045] = {
+		unidentifiedDisplayName = "[C] Heaven Ring",
+		unidentifiedResourceName = "영혼고리",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Heaven Ring",
+		identifiedResourceName = "영혼고리",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 69
+	},
+	[22046] = {
+		unidentifiedDisplayName = "[C] Ear Muffs",
+		unidentifiedResourceName = "귀마개",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Ear Muffs",
+		identifiedResourceName = "귀마개",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 70
+	},
+	[22047] = {
+		unidentifiedDisplayName = "[C] Antler",
+		unidentifiedResourceName = "사슴뿔",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Antler",
+		identifiedResourceName = "사슴뿔",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 71
+	},
+	[22048] = {
+		unidentifiedDisplayName = "[C] Apple o' Every Job",
+		unidentifiedResourceName = "명사수의사과",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Apple o' Every Job",
+		identifiedResourceName = "명사수의사과",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Required lvl : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 72
+	},
+	[22049] = {
+		unidentifiedDisplayName = "[C] Pirate Bandana",
+		unidentifiedResourceName = "해적두건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Pirate Bandana",
+		identifiedResourceName = "해적두건",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 74
+	},
+	[22050] = {
+		unidentifiedDisplayName = "[C] Poo Poo Hat",
+		unidentifiedResourceName = "거시기",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Poo Poo Hat",
+		identifiedResourceName = "거시기",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777770^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 76
+	},
+	[22051] = {
+		unidentifiedDisplayName = "[C] Masquerade",
+		unidentifiedResourceName = "나비가면",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Masquerade",
+		identifiedResourceName = "나비가면",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 78
+	},
+	[22052] = {
+		unidentifiedDisplayName = "[C] Welding Mask",
+		unidentifiedResourceName = "용접마스크",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Welding Mask",
+		identifiedResourceName = "용접마스크",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777772^000000",
+			"Equipped On : ^777777Mid, Lower^000000",
+			"Weight : ^77777730^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 79
+	},
+	[22053] = {
+		unidentifiedDisplayName = "[C] Pretend Murdered",
+		unidentifiedResourceName = "연극소도구",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Pretend Murdered",
+		identifiedResourceName = "연극소도구",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 80
+	},
+	[22054] = {
+		unidentifiedDisplayName = "[C] Stellar",
+		unidentifiedResourceName = "스타더스트",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Stellar",
+		identifiedResourceName = "스타더스트",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 81
+	},
+	[22055] = {
+		unidentifiedDisplayName = "[C] Blinker",
+		unidentifiedResourceName = "눈가리개",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Blinker",
+		identifiedResourceName = "눈가리개",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 82
+	},
+	[22056] = {
+		unidentifiedDisplayName = "[C] Binoculars",
+		unidentifiedResourceName = "망원경",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Binoculars",
+		identifiedResourceName = "망원경",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 83
+	},
+	[22057] = {
+		unidentifiedDisplayName = "[C] Green Feeler",
+		unidentifiedResourceName = "초록더듬이",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Green Feeler",
+		identifiedResourceName = "초록더듬이",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 85
+	},
+	[22058] = {
+		unidentifiedDisplayName = "[C] Orc Helm",
+		unidentifiedResourceName = "오크족헬름",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Orc Helm",
+		identifiedResourceName = "오크족헬름",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777775^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 86
+	},
+	[22059] = {
+		unidentifiedDisplayName = "[C] Headset",
+		unidentifiedResourceName = "헤드폰",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Headset",
+		identifiedResourceName = "헤드폰",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 87
+	},
+	[22060] = {
+		unidentifiedDisplayName = "[C] Jewel Crown",
+		unidentifiedResourceName = "쥬얼크라운",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Jewel Crown",
+		identifiedResourceName = "쥬얼크라운",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777760^000000",
+			"Required lvl : ^77777760^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 88
+	},
+	[22061] = {
+		unidentifiedDisplayName = "[C] Joker Jester",
+		unidentifiedResourceName = "광대모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Joker Jester",
+		identifiedResourceName = "광대모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 89
+	},
+	[22062] = {
+		unidentifiedDisplayName = "[C] Oxygen Mask",
+		unidentifiedResourceName = "산소마스크",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Oxygen Mask",
+		identifiedResourceName = "산소마스크",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 90
+	},
+	[22063] = {
+		unidentifiedDisplayName = "[C] Gas Mask",
+		unidentifiedResourceName = "가스마스크",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Gas Mask",
+		identifiedResourceName = "가스마스크",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid, Lower^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 91
+	},
+	[22064] = {
+		unidentifiedDisplayName = "[C] Machoman's Glasses",
+		unidentifiedResourceName = "하트파운데이션",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Machoman's Glasses",
+		identifiedResourceName = "하트파운데이션",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777771^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 92
+	},
+	[22065] = {
+		unidentifiedDisplayName = "[C] Grand Circlet",
+		unidentifiedResourceName = "로드서클릿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Grand Circlet",
+		identifiedResourceName = "로드서클릿",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Required lvl : ^77777755^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 93
+	},
+	[22066] = {
+		unidentifiedDisplayName = "[C] Safety Helmet",
+		unidentifiedResourceName = "안전모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Safety Helmet",
+		identifiedResourceName = "안전모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 95
+	},
+	[22067] = {
+		unidentifiedDisplayName = "[C] Indian Fillet",
+		unidentifiedResourceName = "원주민머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Indian Fillet",
+		identifiedResourceName = "원주민머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 96
+	},
+	[22068] = {
+		unidentifiedDisplayName = "[C] Aerial",
+		unidentifiedResourceName = "안테나",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Aerial",
+		identifiedResourceName = "안테나",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 97
+	},
+	[22069] = {
+		unidentifiedDisplayName = "[C] Ph.D Hat",
+		unidentifiedResourceName = "학사모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Ph.D Hat",
+		identifiedResourceName = "학사모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 98
+	},
+	[22070] = {
+		unidentifiedDisplayName = "[C] Fin Helm",
+		unidentifiedResourceName = "핀헬름",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Fin Helm",
+		identifiedResourceName = "핀헬름",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777772^000000",
+			"Equipped On : ^777777Mid^000000",
+			"Weight : ^77777730^000000",
+			"Required lvl : ^77777765^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 100
+	},
+	[22071] = {
+		unidentifiedDisplayName = "[C] Egg Shell",
+		unidentifiedResourceName = "장식용알껍질",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Egg Shell",
+		identifiedResourceName = "장식용알껍질",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 101
+	},
+	[22072] = {
+		unidentifiedDisplayName = "[C] Boys Cap",
+		unidentifiedResourceName = "학생모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Boys Cap",
+		identifiedResourceName = "학생모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777772^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 102
+	},
+	[22073] = {
+		unidentifiedDisplayName = "[C] Bone Helm",
+		unidentifiedResourceName = "본헬름",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Bone Helm",
+		identifiedResourceName = "본헬름",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777777^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777780^000000",
+			"Required lvl : ^77777770^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 103
+	},
+	[22074] = {
+		unidentifiedDisplayName = "[C] Feather Bonnet",
+		unidentifiedResourceName = "깃털모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Feather Bonnet",
+		identifiedResourceName = "깃털모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104
+	},
+	[22075] = {
+		unidentifiedDisplayName = "[C] Corsair",
+		unidentifiedResourceName = "커세어",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Corsair",
+		identifiedResourceName = "커세어",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 105
+	},
+	[22076] = {
+		unidentifiedDisplayName = "[C] Kafra Band",
+		unidentifiedResourceName = "카프라의머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Kafra Band",
+		identifiedResourceName = "카프라의머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 106
+	},
+	[22077] = {
+		unidentifiedDisplayName = "[C] Money Loser's Grief",
+		unidentifiedResourceName = "돈잃은자의마음",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Money Loser's Grief",
+		identifiedResourceName = "돈잃은자의마음",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^777777120^000000",
+			"Required lvl : ^77777738^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 107
+	},
+	[22078] = {
+		unidentifiedDisplayName = "[C] Solar God Helm",
+		unidentifiedResourceName = "태양신의모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Solar God Helm",
+		identifiedResourceName = "태양신의모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped on : ^777777Upper, Mid^000000",
+			"Weight : ^777777240^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 138
+	},
+	[22079] = {
+		unidentifiedDisplayName = "[C] Parcel Hat",
+		unidentifiedResourceName = "보따리모",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Parcel Hat",
+		identifiedResourceName = "보따리모",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777770^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^777777100^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 108
+	},
+	[22080] = {
+		unidentifiedDisplayName = "[C] Cake Hat",
+		unidentifiedResourceName = "케이크모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Cake Hat",
+		identifiedResourceName = "케이크모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^777777150^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 109
+	},
+	[22081] = {
+		unidentifiedDisplayName = "[C] Chef Hat",
+		unidentifiedResourceName = "요리사의모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Chef Hat",
+		identifiedResourceName = "요리사의모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 111
+	},
+	[22082] = {
+		unidentifiedDisplayName = "[C] Magic Instructor`s Hat",
+		unidentifiedResourceName = "마법사의모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Magic Instructor`s Hat",
+		identifiedResourceName = "마법사의모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 112
+	},
+	[22083] = {
+		unidentifiedDisplayName = "[C] Naruto Band",
+		unidentifiedResourceName = "촛불",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Naruto Band",
+		identifiedResourceName = "촛불",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Lower^000000",
+			"Weight : ^77777715^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 113
+	},
+	[22084] = {
+		unidentifiedDisplayName = "[C] Spore Hat",
+		unidentifiedResourceName = "스포아모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Spore Hat",
+		identifiedResourceName = "스포아모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777790^000000",
+			"Required lvl : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 114
+	},
+	[22085] = {
+		unidentifiedDisplayName = "[C] Panda Hat",
+		unidentifiedResourceName = "팬더곰모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Panda Hat",
+		identifiedResourceName = "팬더곰모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777780^000000",
+			"Required lvl : ^77777740^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 115
+	},
+	[22086] = {
+		unidentifiedDisplayName = "[C] Mine Hat",
+		unidentifiedResourceName = "광산헬멧",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Mine Hat",
+		identifiedResourceName = "광산헬멧",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777774^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^777777150^000000",
+			"Required lvl : ^77777755^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 116
+	},
+	[22087] = {
+		unidentifiedDisplayName = "[C] Sunday Hat",
+		unidentifiedResourceName = "나들이모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sunday Hat",
+		identifiedResourceName = "나들이모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777780^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 117
+	},
+	[22088] = {
+		unidentifiedDisplayName = "[C] Racoon Hat",
+		unidentifiedResourceName = "너구리모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Racoon Hat",
+		identifiedResourceName = "너구리모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777790^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 118
+	},
+	[22089] = {
+		unidentifiedDisplayName = "[C] Poring Hat",
+		unidentifiedResourceName = "포링모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Poring Hat",
+		identifiedResourceName = "포링모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777772^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777770^000000",
+			"Required lvl : ^77777738^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 120
+	},
+	[22090] = {
+		unidentifiedDisplayName = "[C] Deviruchi Hat",
+		unidentifiedResourceName = "새끼악마모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Deviruchi Hat",
+		identifiedResourceName = "새끼악마모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777772^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777780^000000",
+			"Required lvl : ^77777764^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 123
+	},
+	[22091] = {
+		unidentifiedDisplayName = "[C] Innocence of Maiden",
+		unidentifiedResourceName = "발그레",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Innocence of Maiden",
+		identifiedResourceName = "발그레",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777770^000000",
+			"Equipped on : ^777777Mid^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 125
+	},
+	[22092] = {
+		unidentifiedDisplayName = "[C] Dumpling Decoration",
+		unidentifiedResourceName = "머리포자기",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Dumpling Decoration",
+		identifiedResourceName = "머리포자기",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777770^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777715^000000",
+			"Required lvl : ^77777714^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 127
+	},
+	[22093] = {
+		unidentifiedDisplayName = "[C] Phantom of Opera",
+		unidentifiedResourceName = "오페라유령가면",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Phantom of Opera",
+		identifiedResourceName = "오페라유령가면",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Mid^000000",
+			"Weight : ^77777720^000000",
+			"Required lvl : ^77777720^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 128
+	},
+	[22094] = {
+		unidentifiedDisplayName = "[C] Magician Hat",
+		unidentifiedResourceName = "마술사의모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Magician Hat",
+		identifiedResourceName = "마술사의모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777773^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777750^000000",
+			"Required lvl : ^77777750^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 130
+	},
+	[22095] = {
+		unidentifiedDisplayName = "[C] Bongun Hat",
+		unidentifiedResourceName = "본건모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Bongun Hat",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped on : ^777777Upper, Mid, Lower^000000",
+			"Weight : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 139
+	},
+	[22096] = {
+		unidentifiedDisplayName = "[C] Fashion Sunglasses",
+		unidentifiedResourceName = "패션선글래스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Fashion Sunglasses",
+		identifiedResourceName = "패션선글래스",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777770^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 131
+	},
+	[22097] = {
+		unidentifiedDisplayName = "[C] Striped Bandana",
+		unidentifiedResourceName = "줄무늬머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Striped Bandana",
+		identifiedResourceName = "줄무늬머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777715^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 133
+	},
+	[22098] = {
+		unidentifiedDisplayName = "[C] Wonder Nutshell",
+		unidentifiedResourceName = "신비한열매껍질",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Wonder Nutshell",
+		identifiedResourceName = "신비한열매껍질",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777730^000000",
+			"Required lvl : ^77777730^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 134
+	},
+	[22099] = {
+		unidentifiedDisplayName = "[C] Blue Bandana",
+		unidentifiedResourceName = "청색머리띠",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Blue Bandana",
+		identifiedResourceName = "청색머리띠",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777771^000000",
+			"Equipped on : ^777777Upper^000000",
+			"Weight : ^77777715^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 136
+	},
+	[22100] = {
+		unidentifiedDisplayName = "[C] Sphinx Hat",
+		unidentifiedResourceName = "스핑크스모자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Sphinx Hat",
+		identifiedResourceName = "스핑크스모자",
+		identifiedDescriptionName = {
+			"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+			"Shopping Mall: @mall or @shop",
+			"Class : ^777777Head Gear^000000",
+			"Defence Rate : ^7777775^000000",
+			"Equipped on : ^777777Upper, Lower^000000",
+			"Weight : ^777777300^000000",
+			"Required lvl : ^77777765^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 137
+	},
+	[21006] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "예술축제선물상자",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[U] Uber Accessory Box",
+		identifiedResourceName = "예술축제선물상자",
+		identifiedDescriptionName = {
+			"Open to receive a ^FF9900Unique Uber Accessory^000000 at random.",
+			"^FF9900Uber Accessory has Unique Stats^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
 		ClassNum = 0
 	},
 }
