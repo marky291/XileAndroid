@@ -95003,7 +95003,7 @@ tbl = {
 			"Available Job : ^777777Swordsman^000000"
 		},
 		slotCount = 4,
-		ClassNum = 178
+		ClassNum = 4
 	},
 	[20158] = {
 		unidentifiedDisplayName = "[G] Phoenix Wing",
@@ -97673,7 +97673,7 @@ tbl = {
 			"Available Job : ^777777Swordsman^000000"
 		},
 		slotCount = 4,
-		ClassNum = 5
+		ClassNum = 4
 	},
 	[6010] = {
 		unidentifiedDisplayName = "Tyrant",
@@ -98219,7 +98219,7 @@ tbl = {
 			"Available Job : ^777777Swordsman^000000"
 		},
 		slotCount = 4,
-		ClassNum = 178
+		ClassNum = 4
 	},
 	[3159] = {
 		unidentifiedDisplayName = "Phoenix Wing",
@@ -99113,7 +99113,7 @@ tbl = {
 			"Available Job : ^777777Swordsman^000000"
 		},
 		slotCount = 4,
-		ClassNum = 178
+		ClassNum = 4
 	},
 	[19134] = {
 		unidentifiedDisplayName = "[U] Phoenix Wing",
