@@ -1791,6 +1791,17 @@ tbl = {
 	[2239] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_LEVEL99_ORB1, EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 } },
 	[2240] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_LEVEL99_ORB1, EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 } },
 	[2241] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_LEVEL99_ORB1, EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 } },
+	[3984] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3985] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3986] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3987] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3988] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3989] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3990] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3991] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3992] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3993] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
+	[3994] = { MonsterSize = .3, MonsterEff = { EFFECT.EF_NONE } },
 }
 
 function main()
