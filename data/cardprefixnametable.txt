@@ -452,3 +452,8 @@
 20226#Hallowed#
 20227#Divine#
 20228#Flammable#
+20287#Battle Royale Head#
+20288#Battle Royale Hand#
+20289#Battle Royale Armor#
+20290#Battle Royale Shield#
+20291#Battle Royale Accessory#

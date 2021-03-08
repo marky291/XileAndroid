@@ -119498,6 +119498,722 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[20260] = {
+		unidentifiedDisplayName = "[BR] ",
+		unidentifiedResourceName = "금반지",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Weapon Picker (+0)",
+		identifiedResourceName = "bs_item_m_scroll",
+		identifiedDescriptionName = {
+			"Open to receive a ^FF9900+0 [BR] Weapon^000000 of your choosing.",
+			"^9F5AC0Battle Royal Event^000000",
+			"Weight : ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20261] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬블레이드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Sword (Assassin)",
+		identifiedResourceName = "데몬블레이드",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777One-Handed Sword^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777773^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Thief, Rogue, Assassin^000000",
+		},
+		slotCount = 2,
+		ClassNum = 2
+	},
+	[20262] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬투핸드엑스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Axe",
+		identifiedResourceName = "데몬투핸드엑스",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"Enable to use ^008800Tomahawk Throwing^000000.",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Two-Handed Axe^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Merchant, Blacksmith, Alchemist^000000",
+		},
+		slotCount = 2,
+		ClassNum = 7
+	},
+	[20263] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬클로",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Claw",
+		identifiedResourceName = "데몬클로",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Knuckle^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Monk^000000",
+		},
+		slotCount = 2,
+		ClassNum = 12
+	},
+	[20264] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬완드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Staff",
+		identifiedResourceName = "데몬완드",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777One-Handed Staff^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777773^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Mage, Sage, Wizard^000000",
+		},
+		slotCount = 2,
+		ClassNum = 10
+	},
+	[20265] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬윙",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Bow",
+		identifiedResourceName = "데몬윙",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Bow^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Archer, Hunter, Thief, Rogue^000000",
+		},
+		slotCount = 2,
+		ClassNum = 11
+	},
+	[20266] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬북",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Book",
+		identifiedResourceName = "데몬북",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Book^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Priest, Sage, Star Gladiator^000000",
+		},
+		slotCount = 2,
+		ClassNum = 15
+	},
+	[20267] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬대거",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Dagger",
+		identifiedResourceName = "데몬대거",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Dagger^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 2,
+		ClassNum = 1
+	},
+	[20268] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬카타르",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Katar",
+		identifiedResourceName = "데몬카타르",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Katar^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Assassin^000000",
+		},
+		slotCount = 2,
+		ClassNum = 16
+	},
+	[20269] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬바이올린",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Guitar",
+		identifiedResourceName = "데몬바이올린",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Guitar^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Bard^000000",
+		},
+		slotCount = 2,
+		ClassNum = 13
+	},
+	[20270] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬랜스",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Spear",
+		identifiedResourceName = "데몬랜스",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Two-Handed Spear^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Swordsman, Knight, Crusader^000000",
+		},
+		slotCount = 2,
+		ClassNum = 5
+	},
+	[20271] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬클레이모어",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Sword (Knight)",
+		identifiedResourceName = "데몬클레이모어",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Two-Handed Sword^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Swordsman, Knight, Crusader^000000",
+		},
+		slotCount = 2,
+		ClassNum = 3
+	},
+	[20272] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬블레이드휩",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Whip",
+		identifiedResourceName = "데몬블레이드휩",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Whip^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Dancer^000000",
+		},
+		slotCount = 2,
+		ClassNum = 14
+	},
+	[20273] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬샷건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Shotgun",
+		identifiedResourceName = "데몬샷건",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Shotgun^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Gunslinger^000000",
+		},
+		slotCount = 2,
+		ClassNum = 20
+	},
+	[20274] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬개틀링건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Gatling Gun",
+		identifiedResourceName = "데몬개틀링건",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Gatling Gun^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Gunslinger^000000",
+		},
+		slotCount = 2,
+		ClassNum = 19
+	},
+	[20275] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬그레네이드건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Grenade Launcher",
+		identifiedResourceName = "데몬그레네이드건",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Grenade Launcher^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Gunslinger^000000",
+		},
+		slotCount = 2,
+		ClassNum = 21
+	},
+	[20276] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬라이플",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Rifle",
+		identifiedResourceName = "데몬라이플",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Rifle^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Gunslinger^000000",
+		},
+		slotCount = 2,
+		ClassNum = 18
+	},
+	[20277] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬핸드건",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Revolver",
+		identifiedResourceName = "데몬핸드건",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15, DEX +25",
+			"^9F5AC0Battle Royal Event^000000",
+			"Class : ^777777Revolver^000000",
+			"Attack Strength : ^777777150^000000",
+			"Weight : ^77777725^000000",
+			"Weapon lvl : ^7777774^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Gunslinger^000000",
+		},
+		slotCount = 2,
+		ClassNum = 17
+	},
+	[20278] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "데몬풍마수리검",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Shuriken",
+		identifiedResourceName = "데몬풍마수리검",
+		identifiedDescriptionName = {
+			"A weapon that has been mutated by the magical power of a stranger. Shrouded in darkness...",
+			"All Stats +5, Max HP +3500, ASPD +15. DEX +25",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class :^777777 Huuma^000000",
+			"Attack :^777777 150^000000",
+			"Weight :^777777 25^000000",
+			"Weapon Level :^777777 4^000000",
+			"Required Level :^777777 250^000000",
+			"Applicable Job :^777777 Ninja^000000"
+		},
+		slotCount = 2,
+		ClassNum = 22
+	},
+	[20279] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "고스트링수트",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Armor",
+		identifiedResourceName = "고스트링수트",
+		identifiedDescriptionName = {
+			"A lightweight robed armor to get you through the fight!",
+			"All Stats +4, Max HP +8500, MDEF +5",			
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Armor^000000",
+			"Defense Rate : ^7777774^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20280] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "temporal_manteau",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Garment",
+		identifiedResourceName = "temporal_manteau",
+		identifiedDescriptionName = {
+			"A lightweight garment to get you through the fight!",
+			"All Stats +4, Max HP +5500, MDEF +5",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Garment^000000",
+			"Defense Rate : ^7777773^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20281] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "라모르쉴드_암",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Shield",
+		identifiedResourceName = "라모르쉴드_암",
+		identifiedDescriptionName = {
+			"A strong shield to get you through the fight!",
+			"All Stats +4, Max HP +6000, MDEF +8",
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Shield^000000",
+			"Defense Rate : ^7777773^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20282] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "낙원단반지2",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Accessory",
+		identifiedResourceName = "낙원단반지2",
+		identifiedDescriptionName = {
+			"A sweet ring to get you through the fight!",
+			"All Stats +3, Max HP +5500, MDEF +5",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Accessory^000000",
+			"Defense Rate : ^7777773^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
+	[20283] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "gray_w_boots",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Shoes",
+		identifiedResourceName = "gray_w_boots",
+		identifiedDescriptionName = {
+			"A neat pair of shoes to get you through the fight!",
+			"Max HP +7000, Max SP +4500, MDEF +10",
+			"Increases Movement Speed when equipped.",
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Foot Gear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20284] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "바나르간드의투구",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Helm",
+		identifiedResourceName = "바나르간드의투구",
+		identifiedDescriptionName = {
+			"A sturdy helm to get you through the fight!",
+			"All Stats +5, Max HP +7000, MDEF +10",
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Headgear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Upper^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 2,
+		ClassNum = 804
+	},
+	[20285] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "얼음날개귀",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Middle",
+		identifiedResourceName = "얼음날개귀",
+		identifiedDescriptionName = {
+			"A pair of winged ears to get you through the fight!",
+			"All Stats +3, Max HP +7000, MDEF +5",
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Headgear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Middle^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 584
+	},
+	[20286] = {
+		unidentifiedDisplayName = "x",
+		unidentifiedResourceName = "cupit_blue",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Wings",
+		identifiedResourceName = "cupit_blue",
+		identifiedDescriptionName = {
+			"A pair of wings to get you through the fight!",
+			"All Stats +5, Max HP +4500, HIT +50, MDEF +5",
+			"Enable its user to detect hidden monsters.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Headgear^000000",
+			"Defense Rate : ^7777773^000000",
+			"Equipped On : ^777777Lower^000000",
+			"Weight : ^77777725^000000",
+			"Required lvl : ^777777250^000000",
+			"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 1286
+	},
+	[20287] = {
+		unidentifiedDisplayName = "Bloody Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Bloody Knight Champion Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"All Stats +5, ASPD +3",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20288] = {
+		unidentifiedDisplayName = "Monkey Fist Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Monkey Fist Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"All Stats +4, ASPD +5",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Weapon^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20289] = {
+		unidentifiedDisplayName = "Ghostring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Ghostring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases resistance to Neutral property attacks by 25%.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20290] = {
+		unidentifiedDisplayName = "Shield Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Shield Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Nullify all magic spells, including supportive skills by 30%.",
+			"Reduce damage taken from DemiHuman monster by 20%.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Shield^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20291] = {
+		unidentifiedDisplayName = "Accessory Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Accessory Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"All Stats +4, ASPD +10, DEX +10",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Card^000000",
+			"Compound on : ^777777Accessory^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20292] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "수상한하얀포션",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Small Status Boost Potion",
+		identifiedResourceName = "수상한하얀포션",
+		identifiedDescriptionName = {
+			"All Stats +5 for 5 minutes.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Usable^000000",
+			"Weight : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20293] = {
+		unidentifiedDisplayName = "[BR]",
+		unidentifiedResourceName = "수상한하얀포션",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[BR] Big Status Boost Potion",
+		identifiedResourceName = "수상한파란포션",
+		identifiedDescriptionName = {
+			"All Stats +10 for 5 minutes.",
+			"^9F5AC0Battle Royale Event^000000",
+			"Class : ^777777Useable^000000",
+			"Weight : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 }
 
 main = function()

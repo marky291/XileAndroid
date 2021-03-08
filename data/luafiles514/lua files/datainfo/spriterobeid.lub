@@ -13,6 +13,6 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Relic_Bow = 12,
 	ROBE_C_Relic_Cross = 13,
 	ROBE_C_Relic_Staff = 14,
-	ROBE_Christmas_Daddy_Bag = 15
-	
+	ROBE_Christmas_Daddy_Bag = 15,
+	ROBE_Elite_Angel_Wings = 16
 }

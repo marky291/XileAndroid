@@ -13,7 +13,8 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Bow] = "RELICHUNTER",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cross] = "RELICPRIEST",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Staff] = "RELICWIZARD",
-	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag"
+	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag",
+	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings"
 }
 
 RobeNameTable_Eng = {
@@ -31,7 +32,8 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Bow] = "RELICHUNTER",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cross] = "RELICPRIEST",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Staff] = "RELICWIZARD",
-	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag"
+	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag",
+	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings"
 }
 
 RobeTopLayer = {
