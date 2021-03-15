@@ -94773,7 +94773,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		identifiedDisplayName = "[G] Soul Seeker",
 		identifiedResourceName = "발리스타",
@@ -94786,7 +94786,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		slotCount = 4,
 		ClassNum = 11
@@ -98004,7 +98004,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		identifiedDisplayName = "Soul Seeker",
 		identifiedResourceName = "발리스타",
@@ -98016,7 +98016,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		slotCount = 4,
 		ClassNum = 11
@@ -98895,7 +98895,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		identifiedDisplayName = "[U] Soul Seeker",
 		identifiedResourceName = "발리스타",
@@ -98908,7 +98908,7 @@ tbl = {
 			"Weight : ^7777775^000000",
 			"Weapon lvl : ^7777774^000000",
 			"Required lvl : ^77777777^000000",
-			"Available Job : ^777777Hunter, Bard, Dancer^000000"
+			"Available Job : ^777777Hunter, Bard, Dancer, Rogue^000000"
 		},
 		slotCount = 4,
 		ClassNum = 11
@@ -119986,7 +119986,7 @@ tbl = {
 		identifiedResourceName = "낙원단반지2",
 		identifiedDescriptionName = {
 			"A sweet ring to get you through the fight!",
-			"All Stats +3, Max HP +5500, MDEF +5",
+			"All Stats +3, Max HP +5500, MDEF +3",
 			"^9F5AC0Battle Royale Event^000000",
 			"Class : ^777777Accessory^000000",
 			"Defense Rate : ^7777773^000000",
@@ -120098,7 +120098,8 @@ tbl = {
 		identifiedDisplayName = "[BR] Bloody Knight Champion Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"All Stats +5, ASPD +3",
+			"All Stats +3, ASPD +3",
+			"Add a 80% resistance against ^880000Stun^000000.",
 			"^9F5AC0Battle Royale Event^000000",
 			"Class : ^777777Card^000000",
 			"Compound on : ^777777Headgear^000000",
@@ -120152,7 +120153,7 @@ tbl = {
 		identifiedDisplayName = "[BR] Shield Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Nullify all magic spells, including supportive skills by 30%.",
+			"Nullify all magic spells, including supportive skills by 45%.",
 			"Reduce damage taken from DemiHuman monster by 20%.",
 			"^9F5AC0Battle Royale Event^000000",
 			"Class : ^777777Card^000000",
