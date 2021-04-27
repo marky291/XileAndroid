@@ -14,7 +14,19 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cross] = "RELICPRIEST",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Staff] = "RELICWIZARD",
 	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag",
-	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings"
+	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Syringe] = "RELICALCHEMIST",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Lute] = "RELICBARD",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Anchor] = "RELICBLACKSMITH",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Shield] = "RELICCRUSADER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Rifle] = "RELICGUNSLINGER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Monk_Backpack] = "RELICMONK",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Shuriken] = "RELICNINJA",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cloak] = "RELICROGUE",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Book] = "RELICSAGE",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Wand] = "RELICSOULLINKER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Kali_Sticks] = "RELICSTARGLADIATOR",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Clock] = "RELICSUPERNOVICE"
 }
 
 RobeNameTable_Eng = {
@@ -33,7 +45,19 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cross] = "RELICPRIEST",
 	[SPRITE_ROBE_IDs.ROBE_C_Relic_Staff] = "RELICWIZARD",
 	[SPRITE_ROBE_IDs.ROBE_Christmas_Daddy_Bag] = "Christmas_Daddy_Bag",
-	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings"
+	[SPRITE_ROBE_IDs.ROBE_Elite_Angel_Wings] = "elite_angel_wings",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Syringe] = "RELICALCHEMIST",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Lute] = "RELICBARD",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Anchor] = "RELICBLACKSMITH",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Shield] = "RELICCRUSADER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Rifle] = "RELICGUNSLINGER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Monk_Backpack] = "RELICMONK",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Shuriken] = "RELICNINJA",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Cloak] = "RELICROGUE",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Book] = "RELICSAGE",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Wand] = "RELICSOULLINKER",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Kali_Sticks] = "RELICSTARGLADIATOR",
+	[SPRITE_ROBE_IDs.ROBE_C_Relic_Clock] = "RELICSUPERNOVICE"
 }
 
 RobeTopLayer = {

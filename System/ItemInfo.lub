@@ -110936,6 +110936,258 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 1469
 	},
+	[19635] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Syringe",
+		identifiedResourceName = "RELICALCHEMIST",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 17
+	},
+	[19636] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Lute",
+		identifiedResourceName = "RELICBARD",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 18
+	},
+	[19637] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Anchor",
+		identifiedResourceName = "RELICBLACKSMITH",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 19
+	},
+	[19638] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Shield",
+		identifiedResourceName = "RELICCRUSADER",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 20
+	},
+	[19639] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Rifle",
+		identifiedResourceName = "RELICGUNSLINGER",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 21
+	},
+	[19640] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Monk Backpack",
+		identifiedResourceName = "RELICMONK",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 22
+	},
+	[19641] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Shuriken",
+		identifiedResourceName = "RELICNINJA",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 23
+	},
+	[19642] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Cloak",
+		identifiedResourceName = "RELICROGUE",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 24
+	},
+	[19643] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Book",
+		identifiedResourceName = "RELICSAGE",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 25
+	},
+	[19644] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Wand",
+		identifiedResourceName = "RELICSOULLINKER",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 26
+	},
+	[19645] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Kali Sticks",
+		identifiedResourceName = "RELICSTARGLADIATOR",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 27
+	},
+	[19646] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "[C] Relic Clock",
+		identifiedResourceName = "RELICSUPERNOVICE",
+		identifiedDescriptionName = {
+			"^FF9900XileRetro^000000 Costume Headgear.",
+			"^5DADE2 Exclusive^000000",
+			"Made by Haziel~",
+			"Class : ^777777Head Gear^000000",
+			"Defense Rate : ^7777770^000000",
+			"Equipped On : ^777777Garment^000000",
+			"Weight : ^77777710^000000",
+			"Available Job : ^777777Every Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 28
+	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
 		unidentifiedResourceName = "2019_SStarR_Ticket",
