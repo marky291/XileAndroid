@@ -86696,21 +86696,21 @@ tbl = {
 		ClassNum = 21
 	},
 	[13200] = {
-		unidentifiedDisplayName = "Bullet",
+		unidentifiedDisplayName = "Bullet (Neutral)",
 		unidentifiedResourceName = "ºí¸´",
 		unidentifiedDescriptionName = {
 			"A slim metal round designed to efficiently penetrate a target.",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 10^000000",
+			"Attack :^777777 30^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Neutral^000000"
 		},
-		identifiedDisplayName = "Bullet",
+		identifiedDisplayName = "Bullet (Neutral)",
 		identifiedResourceName = "ºí¸´",
 		identifiedDescriptionName = {
 			"A slim metal round designed to efficiently penetrate a target.",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 10^000000",
+			"Attack :^777777 30^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Neutral^000000"
 		},
@@ -86718,21 +86718,21 @@ tbl = {
 		ClassNum = 3
 	},
 	[13201] = {
-		unidentifiedDisplayName = "Silver Bullet",
+		unidentifiedDisplayName = "Silver Bullet (Holy)",
 		unidentifiedResourceName = "½Ç¹öºí¸´",
 		unidentifiedDescriptionName = {
 			"A silver bullet which holds holy power.",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 15^000000",
+			"Attack :^777777 30^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Holy^000000"
 		},
-		identifiedDisplayName = "Silver Bullet",
+		identifiedDisplayName = "Silver Bullet (Holy)",
 		identifiedResourceName = "½Ç¹öºí¸´",
 		identifiedDescriptionName = {
 			"A silver bullet which holds holy power.",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 15^000000",
+			"Attack :^777777 30^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Holy^000000"
 		},
@@ -86740,23 +86740,23 @@ tbl = {
 		ClassNum = 3
 	},
 	[13202] = {
-		unidentifiedDisplayName = "Shell of Blood",
+		unidentifiedDisplayName = "Shell of Blood (Neutral)",
 		unidentifiedResourceName = "ºí·¯µð¼¿",
 		unidentifiedDescriptionName = {
 			"A blood red bullet which radiates a red light.",
 			"^880000External Bleeding^000000 an enemy when you attack (Success Chance 5%).",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 30^000000",
+			"Attack :^777777 25^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Neutral^000000"
 		},
-		identifiedDisplayName = "Shell of Blood",
+		identifiedDisplayName = "Shell of Blood (Neutral)",
 		identifiedResourceName = "ºí·¯µð¼¿",
 		identifiedDescriptionName = {
 			"A blood red bullet which radiates a red light.",
 			"^880000External Bleeding^000000 an enemy when you attack (Success Chance 5%).",
 			"Class :^777777 Bullet^000000",
-			"Attack :^777777 30^000000",
+			"Attack :^777777 25^000000",
 			"Weight :^777777 0.2^000000",
 			"Property :^777777 Neutral^000000"
 		},
@@ -86876,6 +86876,115 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 5
+	},
+	[13208] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Fire",
+		identifiedResourceName = "ÇÃ·¹¾îºí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Fire.",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 30^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Fire^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
+	[13209] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Water",
+		identifiedResourceName = "¾ÆÀÌ½ººí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Water.",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 30^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
+	[13210] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Rock",
+		identifiedResourceName = "ºí¶óÀÎµåºí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Earth.",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 30^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Earth^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
+	[13211] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Wind",
+		identifiedResourceName = "¶óÀÌÆ®´×ºí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Lightning.",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 30^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Wind^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
+	[13212] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Darkness",
+		identifiedResourceName = "Æ÷ÀÌÁðºí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Darkness.",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 30^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Dark^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
+	},
+	[13213] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Shell of Ice",
+		identifiedResourceName = "¾ÆÀÌ½ººí¸´",
+		identifiedDescriptionName = {
+			"A bullet that is endowed with the power of Ice.",
+			"^880000Freeze^000000 an enemy when you attack (Success Chance 10%).",
+			"Class :^777777 Bullet^000000",
+			"Attack :^777777 25^000000",
+			"Weight :^777777 0.2^000000",
+			"Property :^777777 Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3
 	},
 	[13250] = {
 		unidentifiedDisplayName = "Shuriken",
@@ -97044,6 +97153,21 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 0
+	},
+	[20300] = {
+		unidentifiedDisplayName = "Holy Cross Remnant",
+		unidentifiedResourceName = "fourth_1h_mace",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Holy Cross Remnant",
+		identifiedResourceName = "fourth_1h_mace",
+		identifiedDescriptionName = {
+			"A crucifix that has been blessed by the Pope of the Rune-Midgard Kingdom.",
+			"^5DADE2Quest Item^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	},
 	[20057] = {
 		unidentifiedDisplayName = "Golden Eve Apple",
