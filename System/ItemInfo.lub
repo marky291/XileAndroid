@@ -97169,6 +97169,134 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[20301] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Fire Bullet Crumb",
+		identifiedResourceName = "Pow_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Fire.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20302] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Water Bullet Crumb",
+		identifiedResourceName = "Crt_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Water.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20303] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Rock Bullet Crumb",
+		identifiedResourceName = "Sta_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Earth.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20304] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Wind Bullet Crumb",
+		identifiedResourceName = "Con_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Lightning.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20305] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Darkness Bullet Crumb",
+		identifiedResourceName = "Wis_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Darkness.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20306] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Ice Bullet Crumb",
+		identifiedResourceName = "Crt_Meteorite_Dust",
+		identifiedDescriptionName = {
+			"A pile of gunpowder crumbs that is endowed with the power of Ice.",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20307] = {
+		unidentifiedDisplayName = "Box",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Random Essence Box",
+		identifiedResourceName = "remodelcube",
+		identifiedDescriptionName = {
+			"Open to receive a ^FF9900Socket Essence^000000 at random.",
+			"^FF9900Socket Essence are used to enchant equipment +1~5 stat(s).^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[20308] = {
+		unidentifiedDisplayName = "Dust",
+		unidentifiedResourceName = "ºí·¯µð¼¿",
+		unidentifiedDescriptionName = {
+			"..."
+		},
+		identifiedDisplayName = "Golden Fairy Dust",
+		identifiedResourceName = "fate_shard_e",
+		identifiedDescriptionName = {
+			"Fairy dust with a wonderful iridescent shine...",
+			"^5DADE2Quest Item^000000",
+			"Weight :^777777 0^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[20057] = {
 		unidentifiedDisplayName = "Golden Eve Apple",
 		unidentifiedResourceName = "RGÈ²±Ý»ç°ú",
