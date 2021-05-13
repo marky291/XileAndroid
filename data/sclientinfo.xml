@@ -26,11 +26,12 @@
 			<admin>2006518</admin>
 			<admin>2006861</admin>
 			<admin>2007201</admin>
+			<admin>2008054</admin>
 		</aid>
     </connection>
 	<connection> 
-        <display>^AF3900[Proxy] Asia Pacific, Singapore^000000</display>
-		<address>175.41.142.138</address> 
+        <display>^3333FF[Proxy Tunnel] Singapore, PH^000000</display>
+		<address>54.251.69.230</address> 
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
@@ -51,10 +52,11 @@
 			<admin>2006518</admin>
 			<admin>2006861</admin>
 			<admin>2007201</admin>
+			<admin>2008054</admin>
 		</aid>
     </connection>
 	<connection> 
-        <display>^AF3900[Proxy] South America, Sao Paulo^000000</display>
+        <display>^3333FF[Proxy Tunnel] West Virginia, USA^000000</display>
 		<address>18.228.217.130</address> 
         <port>6900</port>
         <version>46</version>
@@ -76,11 +78,12 @@
 			<admin>2006518</admin>
 			<admin>2006861</admin>
 			<admin>2007201</admin>
+			<admin>2008054</admin>
 		</aid>
     </connection>
-	<connection> 
-        <display>^AF3900[Proxy] US West, N. California^000000</display> 
-		<address>18.144.183.42</address> 
+<connection> 
+        <display>^3333FF[Proxy Tunnel] Sao Paulo, BR^000000</display>
+		<address>18.228.217.130</address> 
         <port>6900</port>
         <version>46</version>
 		<langtype>1</langtype>
@@ -101,6 +104,7 @@
 			<admin>2006518</admin>
 			<admin>2006861</admin>
 			<admin>2007201</admin>
+			<admin>2008054</admin>
 		</aid>
     </connection>
 	<connection> 
