@@ -1438,4 +1438,13 @@ AccNameTable = {
 	[ACCESSORY_IDs.C_Elite_Bandage_Scarf] = "_white_bandage_scarf",
 	[ACCESSORY_IDs.C_Elite_Sword] = "_elite_sword",
 	[ACCESSORY_IDs.C_Kirito_Blades] = "_KIRITOBLADES",
+	[ACCESSORY_IDs.C_High_Ponytail_BU] = "_C_AB_Hair_BU",
+	[ACCESSORY_IDs.C_High_Ponytail_GN] = "_C_AB_Hair_GN",
+	[ACCESSORY_IDs.C_High_Ponytail_PK] = "_C_AB_Hair_PK",
+	[ACCESSORY_IDs.C_High_Ponytail_PP] = "_C_AB_Hair_PP",
+	[ACCESSORY_IDs.C_High_Ponytail_RD] = "_C_AB_Hair_RD",
+	[ACCESSORY_IDs.C_High_Ponytail_YL] = "_C_AB_Hair_YL",
+	[ACCESSORY_IDs.C_Medium_Wave_Bao_Buns] = "_C_Hair_Bun_Wave",
+	[ACCESSORY_IDs.C_Floating_Parasol] = "_C_Floating_Parasol",
+	[ACCESSORY_IDs.C_Anniversary_Cape] = "_C_Anniversary_Cape",
 }

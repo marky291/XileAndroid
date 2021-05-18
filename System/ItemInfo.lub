@@ -1,4 +1,19 @@
 tbl = {
+	[20294] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "Rookie Badge",
+		identifiedResourceName = "마패",
+		identifiedDescriptionName = {
+			"A badge awarded to those victorous at combat.",
+			"^ffffff_^000000",
+			"Weight :^777777 5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 	[20239] = {
 		unidentifiedDisplayName = "x",
 		unidentifiedResourceName = "초록상자",
@@ -74105,7 +74120,9 @@ tbl = {
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Aliot Egg",
 		identifiedResourceName = "언데드알",
-		identifiedDescriptionName = { "...",
+		identifiedDescriptionName = { "An egg that contains a Aliot Pet.",
+			"^5DADE2Premium Room Exclusive^000000",
+			"Diet : ^008000Pet Food^000000",
 			"Class : ^777777Monster Egg^000000",
 			"Weight : ^7777770^000000" },
 		slotCount = 0,
@@ -74131,7 +74148,9 @@ tbl = {
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Aliza Egg",
 		identifiedResourceName = "언데드알",
-		identifiedDescriptionName = { "...",
+		identifiedDescriptionName = { "An egg that contains a Aliza Pet.",
+			"^5DADE2Premium Room Exclusive^000000",
+			"Diet : ^008000Pet Food^000000",
 			"Class : ^777777Monster Egg^000000",
 			"Weight : ^7777770^000000" },
 		slotCount = 0,
@@ -108180,7 +108199,7 @@ tbl = {
 		identifiedResourceName = "늘어진메이드인형모자",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2 Exclusive^000000",
+		"^5DADE2Premium Room Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",
@@ -108200,7 +108219,7 @@ tbl = {
 		identifiedResourceName = "늘어진아하트",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2 Exclusive^000000",
+		"^5DADE2Premium Room Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",
@@ -108220,7 +108239,7 @@ tbl = {
 		identifiedResourceName = "존다인형모자",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2 Exclusive^000000",
+		"^5DADE2Premium Room Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",
@@ -110384,6 +110403,7 @@ tbl = {
 		identifiedResourceName = "blackinvocape",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -110403,6 +110423,7 @@ tbl = {
 		identifiedResourceName = "invocape_wh",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -110460,6 +110481,7 @@ tbl = {
 		identifiedResourceName = "fox_tail",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -110479,6 +110501,7 @@ tbl = {
 		identifiedResourceName = "fox_tail_black",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
@@ -111439,6 +111462,186 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 28
+	},
+	[19647] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Blue)",
+		identifiedResourceName = "c_ab_hair_bu",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1470
+	},
+	[19648] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Green)",
+		identifiedResourceName = "c_ab_hair_gn",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1471
+	},
+	[19649] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Pink)",
+		identifiedResourceName = "c_ab_hair_pk",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1472
+	},
+	[19650] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Purple)",
+		identifiedResourceName = "c_ab_hair_pp",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1473
+	},
+	[19651] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Red)",
+		identifiedResourceName = "c_ab_hair_rd",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1474
+	},
+	[19652] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] High Ponytail (Yellow)",
+		identifiedResourceName = "c_ab_hair_yl",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1475
+	},
+	[19653] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Medium Wave Bao Buns",
+		identifiedResourceName = "C_Hair_Bun_Wave",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1476
+	},
+	[19654] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Floating Parasol",
+		identifiedResourceName = "C_Floating_Parasol",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Collector Kiki Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1477
+	},
+	[19655] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Anniversary Cape",
+		identifiedResourceName = "C_Anniversary_Cape",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Server Launch Anniversary^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1478
 	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
@@ -114598,7 +114801,7 @@ tbl = {
 		unidentifiedResourceName = "여우귀방울리본",
 		unidentifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Mystic Event Box Exclusive^000000",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",
@@ -114609,7 +114812,7 @@ tbl = {
 		identifiedResourceName = "여우귀방울리본",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Mystic Event Box Exclusive^000000",
+		"^5DADE2Quest Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Upper^000000",

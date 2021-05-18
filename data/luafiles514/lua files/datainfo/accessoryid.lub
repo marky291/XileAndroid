@@ -1445,4 +1445,13 @@ ACCESSORY_IDs = {
 	C_Elite_Bandage_Scarf = 1467,
 	C_Elite_Sword = 1468,
 	C_Kirito_Blades = 1469,
+	C_High_Ponytail_BU = 1470,
+	C_High_Ponytail_GN = 1471,
+	C_High_Ponytail_PK = 1472,
+	C_High_Ponytail_PP = 1473,
+	C_High_Ponytail_RD = 1474,
+	C_High_Ponytail_YL = 1475,
+	C_Medium_Wave_Bao_Buns = 1476,
+	C_Floating_Parasol = 1477,
+	C_Anniversary_Cape = 1478,
 }
