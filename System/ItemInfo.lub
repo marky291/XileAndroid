@@ -111633,7 +111633,8 @@ tbl = {
 		identifiedResourceName = "C_Anniversary_Cape",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Server Launch Anniversary^000000",
+		"^5DADE2Server Anniversary Gift^000000",
+		"Recolored by Mitsune~",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Lower^000000",
