@@ -111201,6 +111201,7 @@ tbl = {
 		identifiedResourceName = "KIRITOBLADES",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Sword Art Online",
 		"^5DADE2Cash Shop Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111675,6 +111676,7 @@ tbl = {
 		identifiedResourceName = "Bao_Bao",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Sailor Moon, Street Fighter",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111735,6 +111737,7 @@ tbl = {
 		identifiedResourceName = "Cloud_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111755,6 +111758,7 @@ tbl = {
 		identifiedResourceName = "Grass_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111775,6 +111779,7 @@ tbl = {
 		identifiedResourceName = "Hell_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Hellsing",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111795,6 +111800,7 @@ tbl = {
 		identifiedResourceName = "Hokage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111815,6 +111821,7 @@ tbl = {
 		identifiedResourceName = "Kazekage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111835,6 +111842,7 @@ tbl = {
 		identifiedResourceName = "Kokorokage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111855,6 +111863,7 @@ tbl = {
 		identifiedResourceName = "Leaf_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111875,6 +111884,7 @@ tbl = {
 		identifiedResourceName = "Mist_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111895,6 +111905,7 @@ tbl = {
 		identifiedResourceName = "Mizukage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111935,6 +111946,7 @@ tbl = {
 		identifiedResourceName = "Raikage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -111955,6 +111967,7 @@ tbl = {
 		identifiedResourceName = "Rain_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112035,6 +112048,7 @@ tbl = {
 		identifiedResourceName = "Rock_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112055,6 +112069,7 @@ tbl = {
 		identifiedResourceName = "Sand_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112075,6 +112090,7 @@ tbl = {
 		identifiedResourceName = "Sound_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112115,6 +112131,7 @@ tbl = {
 		identifiedResourceName = "Tsuchikage_Hat",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112135,6 +112152,7 @@ tbl = {
 		identifiedResourceName = "Waterfall_Headband",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Naruto",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112151,10 +112169,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Alucard Glasses (Red)",
+		identifiedDisplayName = "[C] Anime Shades (Gold)",
 		identifiedResourceName = "Alucard_Sunglasses",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Hellsing, Trigun",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112171,11 +112190,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Alucard Glasses (Gold)",
+		identifiedDisplayName = "[C] Aesthetic Shades (Red)",
 		identifiedResourceName = "Hell_Glasses",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
-		"^5DADE2Yoshida Exclusive^000000",
+		"^5DADE2Vada Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
 		"Equipped On : ^777777Middle^000000",
@@ -112191,10 +112210,11 @@ tbl = {
 		unidentifiedDescriptionName = {
 		"...",
 		},
-		identifiedDisplayName = "[C] Hell Shades",
+		identifiedDisplayName = "[C] Alucard Goggles (Red)",
 		identifiedResourceName = "Hell_Shades",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Hellsing",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112215,10 +112235,11 @@ tbl = {
 		identifiedResourceName = "hollow_mask",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Bleach",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
-		"Equipped On : ^777777Middle^000000",
+		"Equipped On : ^777777Middle & Lower^000000",
 		"Weight : ^77777710^000000",
 		"Available Job : ^777777Every Job^000000",
 		},
@@ -112255,6 +112276,7 @@ tbl = {
 		identifiedResourceName = "Crimson_Assassin_Mask",
 		identifiedDescriptionName = {
 		"^FF9900XileRetro^000000 Costume Headgear.",
+		"Anime: Tokyo Ghoul",
 		"^5DADE2Yoshida Exclusive^000000",
 		"Class : ^777777Headgear^000000",
 		"Defence Rate : ^7777770^000000",
@@ -112344,6 +112366,26 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1513
+	},
+	[19691] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Helm",
+		identifiedResourceName = "Çï¸§",
+		identifiedDescriptionName = {
+		"^FF9900Costume Headgear^000000, can be bought in the Shopping Mall.",
+		"Shopping Mall: @mall or @shop",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 40
 	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
