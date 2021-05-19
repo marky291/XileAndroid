@@ -111644,6 +111644,707 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 1478
 	},
+	[19656] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Anniversary Hat",
+		identifiedResourceName = "xileretro_1st_anni_hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Server Anniversary Gift^000000",
+		"Edit by Mitsune~",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1479
+	},
+	[19657] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Bao Bao (Ribbon)",
+		identifiedResourceName = "Bao_Bao",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1480
+	},
+	[19658] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Big Afro",
+		identifiedResourceName = "Big_Afro",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Gwenivere Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1481
+	},
+	[19659] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Bridal Veil",
+		identifiedResourceName = "Bridal_Veil",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1482
+	},
+	[19660] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Cloud Headband",
+		identifiedResourceName = "Cloud_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1483
+	},
+	[19661] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Grass Headband",
+		identifiedResourceName = "Grass_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1484
+	},
+	[19662] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Alucard Hat",
+		identifiedResourceName = "Hell_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1485
+	},
+	[19663] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Hokage Hat",
+		identifiedResourceName = "Hokage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1486
+	},
+	[19664] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Kazekage Hat",
+		identifiedResourceName = "Kazekage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1487
+	},
+	[19665] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Kokorokage Hat",
+		identifiedResourceName = "Kokorokage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1488
+	},
+	[19666] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Leaf Headband",
+		identifiedResourceName = "Leaf_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1489
+	},
+	[19667] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mist Headband",
+		identifiedResourceName = "Mist_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1490
+	},
+	[19668] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Mizukage Hat",
+		identifiedResourceName = "Mizukage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1491
+	},
+	[19669] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Pirate Bunny Beanie",
+		identifiedResourceName = "piratebunny",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1492
+	},
+	[19670] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Raikage Hat",
+		identifiedResourceName = "Raikage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1493
+	},
+	[19671] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Rain Headband",
+		identifiedResourceName = "Rain_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1494
+	},
+	[19672] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Randgris Helm",
+		identifiedResourceName = "randgris",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1495
+	},
+	[19673] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Red Lotus",
+		identifiedResourceName = "Red_Lotus",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1496
+	},
+	[19674] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Reidin Hat",
+		identifiedResourceName = "Reidin_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1497
+	},
+	[19675] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Rock Headband",
+		identifiedResourceName = "Rock_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1498
+	},
+	[19676] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Sand Headband",
+		identifiedResourceName = "Sand_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1499
+	},
+	[19677] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Sound Headband",
+		identifiedResourceName = "Sound_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1500
+	},
+	[19678] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] STFU Sign",
+		identifiedResourceName = "stfu",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1501
+	},
+	[19679] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Tsuchikage Hat",
+		identifiedResourceName = "Tsuchikage_Hat",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1502
+	},
+	[19680] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Waterfall Headband",
+		identifiedResourceName = "Waterfall_Headband",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Upper^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1503
+	},
+	[19681] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Alucard Glasses (Red)",
+		identifiedResourceName = "Alucard_Sunglasses",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1504
+	},
+	[19682] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Alucard Glasses (Gold)",
+		identifiedResourceName = "Hell_Glasses",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1505
+	},
+	[19683] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Hell Shades",
+		identifiedResourceName = "Hell_Shades",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1506
+	},
+	[19684] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Hollow Mask",
+		identifiedResourceName = "hollow_mask",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1507
+	},
+	[19685] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Sohee Ribbons",
+		identifiedResourceName = "Sohee_Ribbons",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Middle^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1508
+	},
+	[19686] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Crimson Assassin Mask",
+		identifiedResourceName = "Crimson_Assassin_Mask",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2Yoshida Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1509
+	},
+	[19687] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Incubus Wings",
+		identifiedResourceName = "incubuswings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1510
+	},
+	[19688] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Insect Wings",
+		identifiedResourceName = "insectwings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1511
+	},
+	[19689] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Succubus Wings",
+		identifiedResourceName = "succubuswings",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1512
+	},
+	[19690] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = {
+		"...",
+		},
+		identifiedDisplayName = "[C] Wizard Master",
+		identifiedResourceName = "Wizard_Master",
+		identifiedDescriptionName = {
+		"^FF9900XileRetro^000000 Costume Headgear.",
+		"^5DADE2 Exclusive^000000",
+		"Class : ^777777Headgear^000000",
+		"Defence Rate : ^7777770^000000",
+		"Equipped On : ^777777Lower^000000",
+		"Weight : ^77777710^000000",
+		"Available Job : ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 1513
+	},
 	[20058] = {
 		unidentifiedDisplayName = "Gwenivere Wig Coupon",
 		unidentifiedResourceName = "2019_SStarR_Ticket",
